@@ -5,32 +5,33 @@ layout: default
 
 ### One action to price check your item
 
-* _Instantly get other sales similar to your request._
-* _Play smoother with Xiletrade shortcuts._
+_Instantly get other sales similar to your request._  
+_Play smoother with Xiletrade shortcuts._
 
 ### Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
-* Runs efficiently with few CPU resources.
-* Uses max `250 MB of RAM` with no memory allocation spikes.
-* `NO DATA` written in the background.
+Runs efficiently with few CPU resources.  
+Uses max `250 MB of RAM` with no memory allocation spikes.  
+`NO DATA` written in the background.  
 <br><br><br>
 * * *
 
 ## Main features :
 
-* Fast and customisable `Price checker` for all items.
-* `Bulk item exchange` feature with all currencies to allow fast whisper trades through POE.
-* Addons : linked with `poe.prices`, `ninja`, `wiki` and `poedb` to help pricing items and retrieve more info about related items.
-* Features without automation : `Fast TCP logout` / `Updates` / Custom `chat messages` and more.
-* `Regex manager` : Allow you to manage your defined list of regular expressions and auto paste selected ones into the highlight bar.
-* Quick access to `Settings` to modify automatic form selections for price checks behaviour.
-* Binding `mouse wheel` to `left click` on demand respecting single action rule.
-* Designed to respect rules set by the official trade website in order to avoid abuses (limited data recovery and requests over time).
+1. Fast and customisable `Price checker` for all items.
+2. `Bulk item exchange` feature with all currencies to allow fast whisper trades through POE.
+3. Addons : linked with `poe.prices`, `ninja`, `wiki` and `poedb` to help pricing items and retrieve more info about related items.
+4. Features without automation : `Fast TCP logout` / `Updates` / Custom `chat messages` and more.
+5. `Regex manager` : Allow you to manage your defined list of regular expressions and auto paste selected ones into the highlight bar.
+6. Quick access to `Settings` to modify automatic form selections for price checks behaviour.
+7. Binding `mouse wheel` to `left click` on demand respecting single action rule.
+8. Designed to respect rules set by the official trade website in order to avoid abuses (limited data recovery and requests over time).
 
-### Define and use your own shortcuts :
+### Usages :
 
-* `Right click` on system tray icon to configure or close the program.
-* All features have a deep explain on themselves, just leave the `mouse hover` until a tooltip appears.
+> Run your game in `borderless full screen` in order to work correctly.  
+> `Right click` on system tray icon to configure or close the program.  
+> All features have a deep explain on themselves, just leave the `mouse hover` until a tooltip appears.
 
 ### Customizable behaviours :
 
@@ -40,12 +41,6 @@ layout: default
 * Adjust `opacity` and `auto-close` when window lose the focus (click on the `upper left corner`).
 * `Highlight` for `expensive` and `dangeours mods` in maps (in config file).
 * `Auto paste` whisper trades in-game from external websites.
-
-### Usage and performances :
-* Run your game in `borderless full screen` in order to work correctly.
-* Uses max `180 ~ 250 MB of RAM` without memory allocation spikes.
-* Does not write data in the background to disk outside of updates.
-* Requires very little CPU time to run efficiently.
 
 ### Third party tools usage - [GGG Developper Docs](https://www.pathofexile.com/developer/docs/index#policy) :
 Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.<br>
