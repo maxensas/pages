@@ -2,12 +2,12 @@
 layout: default
 ---
 <a alt="Xiletrade screenshot" target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"></a>
-### One action to price check your item
+## One action to price check your item
 
 _Instantly get other sales similar to your request._  
-_Play smoother with Xiletrade shortcuts._
+_Play smoother by using usefull shortcuts._
 
-### Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+## Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
 Runs efficiently with few CPU resources.  
 Uses max `250 MB of RAM` with no memory allocation spikes.  
@@ -15,7 +15,7 @@ Uses max `250 MB of RAM` with no memory allocation spikes.
 <br><br>
 * * *
 
-## Main features :
+# Main features :
 
 1. Fast and customisable `Price checker` for all items.
 2. `Bulk item exchange` feature with all currencies to allow fast whisper trades through POE.
@@ -32,7 +32,7 @@ Uses max `250 MB of RAM` with no memory allocation spikes.
 > `Right click` on system tray icon to configure or close the program.  
 > All features have a deep explain on themselves, just leave the `mouse hover` until a tooltip appears.
 
-### Customizable behaviours :
+## Customizable behaviours :
 
 * `Drag main window` where you want on your screen.
 * Search by `current` item values or by `minimum value` in tier range.
@@ -46,5 +46,5 @@ Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.<b
 
 ### Contribute to the project : [How can you help](https://github.com/maxensas/xiletrade/blob/master/CONTRIBUTING.md)
 
-
+<a target="_blank" rel="noopener noreferrer" href="./example-page.html" class="btn">example</a>  
 [go to example page](./example-page.html).
