@@ -5,18 +5,16 @@ layout: default
 
 ### One action to price check your item
 
-* _Instantly get other sales similar to your request with the right estimate._
+* _Instantly get other sales similar to your request._
 * _Play smoother with Xiletrade shortcuts._
 
 ### Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
-### Performances :
-
-* Uses max `180 ~ 250 MB of RAM` without memory allocation spikes.
+* Max use `180~250 MB of RAM` without memory allocation spikes.
 * `DOES NOT` write unnecessary data in the background.
-* Requires very little CPU time to run efficiently.
+* Req. very little CPU time to run efficiently.
 
-<br>
+* * *
 
 ## Main features :
 
