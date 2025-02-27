@@ -1,6 +1,3 @@
----
-layout: default
----
 [<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/104107842-feae5080-52bf-11eb-8e8f-d8827f1f0334.png">](https://github.com/maxensas/xiletrade)
 [<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/104107838-fd7d2380-52bf-11eb-8d47-f949fd7a3b58.png">](https://github.com/maxensas/xiletrade/blob/master/readme/README.kr.md)
 [<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/104107835-fd7d2380-52bf-11eb-8e08-614b2610eca4.png">](https://github.com/maxensas/xiletrade/blob/master/readme/README.fr.md)

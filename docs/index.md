@@ -1,7 +1,10 @@
 ---
 layout: default
 ---
-<img align="center" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><br>
+
+{% include_relative flags.md %}
+
+<img width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><br>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
