@@ -1,9 +1,14 @@
 ---
 layout: default
 ---
-<img width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><br>
+<img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33">
 
-![xiletrade](https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33)
+XileTrade is a tool that aims to provide a better gaming experience on [Path of exile](https://www.pathofexile.com/). It mainly helps you to price items in-game and offers controls to make trading easier without adding automation.
+### Quick samples : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+>Path of Exile is a game developed and published by Grinding Gear Games. The game is refreshed every 3/4 months with new content and updates through their league system.
+>Xiletrade follow changes made and use [official website](https://www.pathofexile.com/trade/) to retrieve good estimated prices.
+### Price your items easily
+Instantly get other sales similar to your request and the right price estimate.<br><br>
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
