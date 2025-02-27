@@ -17,7 +17,7 @@
       
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-      <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
+      <h2 class="project-tagline">{{ page.description | number_of_words: "auto" | default: site.description | default: site.github.project_tagline }}</h2>
       <h3>{% include flags.md %}</h3>
       {% if site.show_downloads %}
       <a href="{{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file }}" class="btn">{{ page.strings.download | default: site.strings.download }}</a>
