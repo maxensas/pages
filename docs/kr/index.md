@@ -1,4 +1,4 @@
-﻿---
+---
 layout: default
 title: Xiletrade
 description: Path Of Exile 1과 2를 위한 가격 확인 및 도우미 도구.
