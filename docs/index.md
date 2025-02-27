@@ -10,9 +10,10 @@ layout: default
 
 ### Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
-* Run your game in `borderless full screen` in order to work correctly.
+### Performances :
+
 * Uses max `180 ~ 250 MB of RAM` without memory allocation spikes.
-* Does not write data in the background to disk outside of updates.
+* `DOES NOT` write unnecessary data in the background.
 * Requires very little CPU time to run efficiently.
 
 <br>
