@@ -21,7 +21,7 @@ Instantly get other sales similar to your request and the right price estimate.<
 * Designed to respect rules set by the official trade website in order to avoid abuses (limited data recovery and requests over time).
 
 ## Languages - [sample](https://github.com/maxensas/xiletrade/blob/master/LANGUAGES.md) :
-* Support for : English, Korean, French, Spanish, German, Portuguese, Russian, Thaï, Chinese (traditional, simplified) and Japanese.
+* Support for : English, Korean, French, Spanish, German, Portuguese, Russian, ThaÃ¯, Chinese (traditional, simplified) and Japanese.
 
 ### Define and use your own shortcuts :
 * To configure or close the program, use right click on system tray icon.
