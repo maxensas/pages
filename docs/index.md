@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33">  
+<img width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33" id="hp">    
 
 XileTrade is a tool that aims to provide a better gaming experience on [Path of exile](https://www.pathofexile.com/). It mainly helps you to price items in-game and offers controls to make trading easier without adding automation.
 ### Quick samples : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
