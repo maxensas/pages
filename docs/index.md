@@ -1,12 +1,13 @@
 ---
 layout: default
 ---
-<img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><p>
+<img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33">
+
 XileTrade is a tool that aims to provide a better gaming experience on [Path of exile](https://www.pathofexile.com/). It mainly helps you to price items in-game and offers controls to make trading easier without adding automation.
 ### Quick samples : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 >Path of Exile is a game developed and published by Grinding Gear Games. The game is refreshed every 3/4 months with new content and updates through their league system.
 >Xiletrade follow changes made and use [official website](https://www.pathofexile.com/trade/) to retrieve good estimated prices.<br><br>
-</p>
+
 
 ### Price your items easily
 Instantly get other sales similar to your request and the right price estimate.<br><br>
@@ -20,9 +21,6 @@ Instantly get other sales similar to your request and the right price estimate.<
 * Quick access to settings to modify automatic form selections for price checks behaviour.
 * Binding mouse wheel to left click on demand respecting single action rule.
 * Designed to respect rules set by the official trade website in order to avoid abuses (limited data recovery and requests over time).
-
-## Languages - [sample](https://github.com/maxensas/xiletrade/blob/master/LANGUAGES.md) :
-* Support for : English, Korean, French, Spanish, German, Portuguese, Russian, Thaï, Chinese (traditional, simplified) and Japanese.
 
 ### Define and use your own shortcuts :
 * To configure or close the program, use right click on system tray icon.
