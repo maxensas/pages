@@ -2,7 +2,6 @@ title: Xiletrade
 description: Price checker and helper tool for Path Of Exile games
 show_downloads: true
 google_analytics:
-#theme: jekyll-theme-cayman
 remote_theme: lewismiddleton/cayman-dark
 strings:
   maintained: project is maintained by
