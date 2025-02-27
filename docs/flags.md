@@ -8,4 +8,4 @@
 [<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/104107841-feae5080-52bf-11eb-8ca7-1f402cbf6e5e.png">](https://github.com/maxensas/xiletrade/blob/master/readme/README.th.md)
 [<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/104107840-fe15ba00-52bf-11eb-939e-d98bba60877d.png">](https://github.com/maxensas/xiletrade/blob/master/readme/README.tw.md)
 [<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/104107834-fce48d00-52bf-11eb-8902-02d5a6d457c8.png">](https://github.com/maxensas/xiletrade/blob/master/readme/README.cn.md)
-[<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/222918792-06b9c888-bb96-40af-a27c-68b664fe60b5.png">](https://github.com/maxensas/xiletrade/blob/master/readme/README.jp.md)
+[<img width="20" height="15" src="https://user-images.githubusercontent.com/62154281/222918792-06b9c888-bb96-40af-a27c-68b664fe60b5.png" >](https://github.com/maxensas/xiletrade/blob/master/readme/README.jp.md)
