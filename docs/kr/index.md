@@ -9,6 +9,6 @@ strings:
   repository: GitHub에서 보기
 ---
 
-kr
+kr 다운로드
 
 [back](./)
