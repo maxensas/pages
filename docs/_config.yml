@@ -1,0 +1,14 @@
+title: Xiletrade
+description: Price checker and helper tool for Path Of Exile games
+show_downloads: true
+google_analytics:
+theme: jekyll-theme-cayman
+github:
+  repository_name: Xiletrade
+  owner_name: maxensas
+  is_project_page: true
+  owner_url: https://github.com/maxensas/
+  repository_url: https://github.com/maxensas/xiletrade
+  download_directory_url: https://github.com/maxensas/xiletrade/releases/download/
+  archive_file: Xiletrade_win-x64.7z
+  latest_version: 1.10.5
