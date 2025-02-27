@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Xiletrade
-description: test
+lang: fr-FR
+description: Outil de vérification des prix et d'aide pour les jeux Path Of Exile
 ---
 
 fr

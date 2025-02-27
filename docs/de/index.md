@@ -1,9 +1,8 @@
 ---
 layout: default
 title: Xiletrade
-description: test
-strings:
-  download: dlll2
+lang: de-DE
+description: Preischecker und Hilfstool für Path Of Exile-Spiele
 ---
 
 de
