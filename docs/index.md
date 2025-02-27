@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33" >    
+<img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33" >
 
 ### One action to price check your item
 
@@ -10,10 +10,10 @@ layout: default
 
 ### Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
-* Max use `180~250 MB of RAM` without memory allocation spikes.
-* `DOES NOT` write unnecessary data in the background.
-* Req. very little CPU time to run efficiently.
-
+* Runs efficiently with few CPU resources.
+* Uses max `250 MB of RAM` with no memory allocation spikes.
+* `NO DATA` written in the background.
+<br><br><br>
 * * *
 
 ## Main features :
