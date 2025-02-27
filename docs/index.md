@@ -7,11 +7,11 @@ layout: default
 _Instantly get other sales similar to your request._  
 _Play smoother by using usefull shortcuts._
 
-## Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+### Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
 Runs efficiently with few CPU resources.  
-Uses max `250 MB of RAM` with no memory allocation spikes.  
-`NO DATA` written in the background.  
+Uses max ***250 MB of RAM*** with no memory allocation spikes.  
+***NO DATA*** written in the background.  
 <br><br>
 * * *
 
