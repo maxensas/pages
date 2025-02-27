@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33" alt="Xiletrade screenshot"></a>
+<a alt="Xiletrade screenshot" target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"></a>
 ### One action to price check your item
 
 _Instantly get other sales similar to your request._  
@@ -12,7 +12,7 @@ _Play smoother with Xiletrade shortcuts._
 Runs efficiently with few CPU resources.  
 Uses max `250 MB of RAM` with no memory allocation spikes.  
 `NO DATA` written in the background.  
-<br><br><br>
+<br><br>
 * * *
 
 ## Main features :
