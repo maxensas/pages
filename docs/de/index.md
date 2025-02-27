@@ -2,7 +2,7 @@
 layout: default
 title: Xiletrade
 description: test
-github:
+strings:
   download: dlll
 ---
 
