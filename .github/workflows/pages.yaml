@@ -5,7 +5,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: script/cibuild
+    name: docs/script/cibuild
     steps:
       - uses: actions/checkout@v2
       - uses: ruby/setup-ruby@v1
