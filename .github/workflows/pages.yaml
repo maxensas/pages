@@ -6,8 +6,20 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      pages: write
       id-token: write
+      actions: write
+      attestations: write
+      checks: write
+      contents: write
+      deployments: write
+      discussions: write
+      issues: write
+      packages: write
+      pages: write
+      pull-requests: write
+      repository-projects: write
+      security-events: write
+      statuses: write
     environment:
       name: github-pages
       url: ${{ steps.deployment.outputs.page_url }}
