@@ -7,7 +7,7 @@ layout: default
 *Instantly get other sales similar to your request.*  
 *Play smoother by using usefull shortcuts.*
 
-### Samples on youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+### On youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
 Runs efficiently with few CPU resources.  
 Uses max ***250 MB of RAM*** with no memory allocation spikes.  
@@ -17,12 +17,16 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 # Main features :
 
-- Fast and customisable **Price checker** for all items.
-- **Bulk item exchange** feature with all currencies to allow fast whisper trades through POE.
-- Addons : linked with **poe.prices**, **ninja**, **wiki** and **poedb** to help pricing items and retrieve more info about related items.
-- Features without automation : **Fast TCP logout** / **Updates** / Custom **chat messages** and more.
-- **Regex manager** : Allow you to manage your defined list of regular expressions and auto paste selected ones into the highlight bar.
-- Quick access to **Settings** to modify automatic form selections for price checks behaviour.
+- Fast and customisable **Price checker** for all items. ***(CTRL+D)***
+- **Bulk item exchange** to allow fast whisper trades through POE.
+- Addons to help pricing items and retrieve more info about related items.
+	- Linked with **poe.prices**, **ninja**, **wiki** and **poedb**.
+- Features without automation.
+	- **Fast TCP logout** / **Updates** / Custom **chat messages** and more. 
+- **Regex manager**
+	- Manage a defined list of regular expressions.
+	- Auto paste into the highlight bar.
+- Open **Settings** with ***CTRL+R*** to modify automatic form selections for price checks behaviour.
 - Binding **mouse wheel** to **left click** on demand respecting single action rule.
 - Designed to respect rules set by the official trade website in order to avoid abuses (limited data recovery and requests over time).
 
@@ -41,8 +45,9 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 > * **Highlight`** for **expensive** and **dangeours mods** in maps (in config file).
 > * **Auto paste** whisper trades in-game from external websites.
 
-Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.  
-[See Developper Policy](https://www.pathofexile.com/developer/docs/index#policy)
-<br>
- 
+[Game Developer Policy](https://www.pathofexile.com/developer/docs/index#policy)
+```
+Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.
+```
+
 [example page](./example-page.html).
