@@ -39,13 +39,15 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 >
 > * **Drag main window** wherever you want on your screen.
 > * Search by **current** item values or by **minimum value** in tier range.
-> * Change numeric values with **mouse wheel** (min/max) > hold **CTRL** or **SHIFT** for decimal values.
-> * Adjust **opacity** and **auto-close** when window lose the focus (click on the **upper left corner**).
-> * **Highlight`** for **expensive** and **dangeours mods** in maps (in config file).
+> * Change numeric values with **mouse wheel** (min/max)
+>	 * Hold **CTRL** or **SHIFT** key for decimal values.
+> * Adjust **opacity** and **auto-close** when window lose the focus.
+>	 * Click on the **upper left corner** icon of the main window.
+> * **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
 > * **Auto paste** whisper trades in-game from external websites.
 
 ```
-This tool is designed to respect rules set by the official trade website  
+This tool is designed to comply rules set by the official trade website  
 in order to avoid abuses with limited data recovery and requests over time.  
 
 Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.
