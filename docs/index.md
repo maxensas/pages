@@ -1,6 +1,8 @@
 ---
 layout: default
 ---
+{% include shields.md %}
+
 <a alt="Xiletrade screenshot" target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"></a>
 ## One action to price check your item
 
