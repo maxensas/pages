@@ -38,7 +38,8 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 5. **Right click** on system tray icon to configure or close the program.  
 6. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
 <br>
-
+<img src="https://github.com/user-attachments/assets/defedc9d-a753-4444-bfaf-084f34fb59e6">
+<br>
 > # How it works :
 > 
 > 1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
