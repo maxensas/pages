@@ -40,6 +40,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 <br>
 <img src="https://github.com/user-attachments/assets/defedc9d-a753-4444-bfaf-084f34fb59e6">
 <br>
+
 > # How it works :
 > 
 > 1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
