@@ -47,7 +47,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 >    - Place your mouse **over an item** in game and press ***CTRL-D*** *(default)*
 >    - It will copy **item info descriptions** from game and open Xiletrade window.
 >    - The window will display **estimated prices** if the search return matching results.
->    - Prices displayed are based from the official trade websites [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
+>    - Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
 ### Customizable behaviours :
