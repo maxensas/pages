@@ -38,27 +38,27 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 5. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
 <br>
 
-## How it works :
-
-1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
-2. Make sure that Xiletrade **language** and **league** match corresponding game settings.
-3. Once Xiletrade is launched and setup you can now price check whith it !
-4. Here is the process :
-	- Place your mouse **over an item** in game and press ***CTRL-D*** *(default)*
-	- It will copy item info descriptions from game and automatically open Xiletrade window.
-	- The window will display estimated prices if the search return matching results.
+> ## How it works :
+> 
+> 1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
+> 2. Make sure that Xiletrade **language** and **league** match corresponding game settings.
+> 3. Once Xiletrade is launched and setup you can now price check whith it !
+> 4. Here is the process :  
+>    - Place your mouse **over an item** in game and press ***CTRL-D*** *(default)*
+>	 - It will copy item info descriptions from game and automatically open Xiletrade window.
+>	 - The window will display estimated prices if the search return matching results.
 <br>
 
-> ### Customizable behaviours :
->
-> * **Drag main window** wherever you want on your screen.
-> * Search by **current** item values or by **minimum value** in tier range.
-> * Change numeric values with **mouse wheel** (min/max)
->	 * Hold **CTRL** or **SHIFT** key for decimal values.
-> * Adjust **opacity** and **auto-close** when window lose the focus.
->	 * Click on the **upper left corner** icon of the main window.
-> * **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
-> * **Auto paste** whisper trades in-game from external websites.  
+### Customizable behaviours :
+
+* **Drag main window** wherever you want on your screen.
+* Search by **current** item values or by **minimum value** in tier range.
+* Change numeric values with **mouse wheel** (min/max)
+	* Hold **CTRL** or **SHIFT** key for decimal values.
+* Adjust **opacity** and **auto-close** when window lose the focus.
+	* Click on the **upper left corner** icon of the main window.
+* **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
+* **Auto paste** whisper trades in-game from external websites.  
 
 ```
 This tool is designed to comply rules set by the official trade website  
