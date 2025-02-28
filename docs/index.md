@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<a alt="Xiletrade screenshot" target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><img align="left" class="shot" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"></a>
+{% include screenshot.md %}
 ## One action to price check your item
 
 *Play smoother by using usefull shortcuts.*  
@@ -55,5 +55,3 @@ Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.
 ```
 
 More informations about third party apps : [Game Developer Policy](https://www.pathofexile.com/developer/docs/index#policy)
-
-[example page](./example-page.html).
