@@ -29,14 +29,22 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 - Open **Settings** with ***CTRL+R*** to modify automatic price check behaviours.
 - Binding **mouse wheel** with **left click** on demand respecting single action rule.
 
-### Usage :
+### Installation and Setup :
 
 1. Download the latest version and extract the `.7zip` archive to the desired directory.
-2. Run your game in **widowed** or **borderless full screen** in order to work correctly.  
-3. Xiletrade checks for **new updates** and download **official filters** on startup.
-4. Select desired **game version**, **language** and **league** under settings window.
-5. **Right click** on system tray icon to configure or close the program.  
-6. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
+2. Xiletrade checks for **new updates** and download **official filters** on startup.
+3. Select desired **game version**, **language** and **league** under startup or settings window.
+4. **Right click** on system tray icon to configure or close the program.  
+5. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
+<br>
+
+### How it works :
+
+1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
+2. Make sure that Xiletrade **language** and **league** match corresponding game settings.
+3. Once Xiletrade is launched and setup you can price check whith it !
+	- Place your mouse **over an item** in game and press ***CTRL-D*** *(default)*
+	- It will copy item info descriptions and automatically open Xiletrade window with estimated price if the search goes well.
 <br>
 
 > ## Customizable behaviours :
