@@ -31,9 +31,12 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 ### Usage :
 
-1. Run your game in **borderless full screen** in order to work correctly.  
-2. **Right click** on system tray icon to configure or close the program.  
-3. **Mouse hover** on each feature until a tooltip appears to get a deep explain.  
+1. Download the latest version and extract the `.7zip` archive to the desired directory.
+2. Run your game in **widowed** or **borderless full screen** in order to work correctly.  
+3. Xiletrade checks for **new updates** and download **official filters** on startup.
+4. Select desired **game version**, **language** and **league** under settings window.
+5. **Right click** on system tray icon to configure or close the program.  
+6. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
 <br>
 
 > ## Customizable behaviours :
@@ -51,5 +54,3 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 This tool is designed to comply rules set by the official trade website  
 in order to avoid abuses with limited data recovery and requests over time.  
 ```
-Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.  
-More informations about third party apps : [Game Developer Policy](https://www.pathofexile.com/developer/docs/index#policy)
