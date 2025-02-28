@@ -38,15 +38,15 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 5. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
 <br>
 
-> ## How it works :
+> # How it works :
 > 
 > 1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
 > 2. Make sure that Xiletrade **language** and **league** match corresponding game settings.
 > 3. Once Xiletrade is launched and setup you can now price check whith it !
 > 4. Here is the process :  
 >    - Place your mouse **over an item** in game and press ***CTRL-D*** *(default)*
->	 - It will copy item info descriptions from game and automatically open Xiletrade window.
->	 - The window will display estimated prices if the search return matching results.
+>    - It will copy item info descriptions from game and automatically open Xiletrade window.
+>    - The window will display estimated prices if the search return matching results.
 <br>
 
 ### Customizable behaviours :
