@@ -19,7 +19,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 - Fast and customisable **Price checker** for all items.
 - **Bulk item exchange** for fast whisper trades through POE.
-- Addons to help pricing items and retrieve more info about related items.
+- **Addons** to help pricing items and retrieve more info about related items.
 	- Linked with **poe.prices**, **ninja**, **wiki** and **poedb**.
 - Features without automation.
 	- **Fast TCP logout** / **Updates** / Custom **chat messages** and more. 
@@ -31,8 +31,8 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 ## Installation and Setup :
 
-1. Download the latest version and extract the `.7zip` archive to the desired directory.
-2. Xiletrade is a portable application and does not install anything additional upon launch.
+1. **Download** the latest version and **extract** the `.7zip` archive to the desired directory.
+2. Xiletrade is a **portable application** and does not install anything additional upon launch.
 3. Automatically checks for **new updates** and download **official filters** *(JSON)* on startup.
 4. Select desired **game version**, **language** and **league** under startup or settings window.
 5. **Right click** on system tray icon to configure or close the program.  
@@ -43,10 +43,10 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 > 
 > 1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
 > 2. Make sure that Xiletrade **language** and **league** match corresponding game settings.
-> 3. Once Xiletrade is launched and setup, you can now price check following this process :
+> 3. Once Xiletrade is launched and setup, you can now **price check** following this process :
 >    - Place your mouse **over an item** in game and press ***CTRL-D*** *(default)*
->    - It will copy item info descriptions from game and open Xiletrade window.
->    - The window will display estimated prices if the search return matching results.
+>    - It will copy **item info descriptions** from game and open Xiletrade window.
+>    - The window will display **estimated prices** if the search return matching results.
 >    - Prices displayed are based from the official trade websites [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
