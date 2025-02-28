@@ -40,6 +40,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 <br>
 <img src="https://github.com/user-attachments/assets/defedc9d-a753-4444-bfaf-084f34fb59e6">
 <br>
+
 * * *
 > # How it works :
 > 
@@ -52,6 +53,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 >    - Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
+* * *
 ### Customizable behaviours :
 
 * **Drag main window** wherever you want on your screen.
