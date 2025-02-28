@@ -27,17 +27,17 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 	- Manage a defined list of regular expressions.
 	- Auto paste into the highlight bar.
 - Open **Settings** with ***CTRL+R*** to modify automatic price check behaviours.
-- Binding **mouse wheel** -> **left click** on demand respecting single action rule.
+- Binding **mouse wheel** with **left click** on demand respecting single action rule.
 
-### Usages :
+### Usage :
 
 1. Run your game in **borderless full screen** in order to work correctly.  
 2. **Right click** on system tray icon to configure or close the program.  
-3. Leave a **mouse hover** on each feature until a tooltip appears to get a deep explain.
+3. **Mouse hover** on each feature until a tooltip appears to get a deep explain.
 
 > ## Customizable behaviours :
 >
-> * **Drag main window** where you want on your screen.
+> * **Drag main window** wherever you want on your screen.
 > * Search by **current** item values or by **minimum value** in tier range.
 > * Change numeric values with **mouse wheel** (min/max) > hold **CTRL** or **SHIFT** for decimal values.
 > * Adjust **opacity** and **auto-close** when window lose the focus (click on the **upper left corner**).
@@ -45,11 +45,12 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 > * **Auto paste** whisper trades in-game from external websites.
 
 ```
-- This tool is designed to respect rules set by the official trade website  
-in order to avoid abuses with limited data recovery and requests over time.
-- Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.
+This tool is designed to respect rules set by the official trade website  
+in order to avoid abuses with limited data recovery and requests over time.  
+
+Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.
 ```
 
-More information about third party apps : [Game Developer Policy](https://www.pathofexile.com/developer/docs/index#policy)
+More informations about third party apps : [Game Developer Policy](https://www.pathofexile.com/developer/docs/index#policy)
 
 [example page](./example-page.html).
