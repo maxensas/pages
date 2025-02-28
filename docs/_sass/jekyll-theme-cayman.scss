@@ -109,6 +109,10 @@ a {
     opacity: 0.5;
 }
 
+svg {
+    filter: invert(0) !important;
+}
+
 .btn2 {
     display: inline-block;
     margin-bottom: 0.2rem;
