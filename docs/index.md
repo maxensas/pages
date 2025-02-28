@@ -32,10 +32,11 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 ## Installation and Setup :
 
 1. Download the latest version and extract the `.7zip` archive to the desired directory.
-2. Xiletrade checks for **new updates** and download **official filters** on startup.
-3. Select desired **game version**, **language** and **league** under startup or settings window.
-4. **Right click** on system tray icon to configure or close the program.  
-5. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
+2. Xiletrade is a portable application and does not install anything additional upon launch.
+3. Automatically checks for **new updates** and download **official filters** on startup.
+4. Select desired **game version**, **language** and **league** under startup or settings window.
+5. **Right click** on system tray icon to configure or close the program.  
+6. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
 <br>
 
 > # How it works :
