@@ -1,7 +1,9 @@
 ---
 layout: default
 ---
-{% include shields.md %}
+[![Release](https://img.shields.io/github/release/maxensas/xiletrade.svg)](https://github.com/maxensas/xiletrade/releases/) 
+[![Open Source? GPLv3](https://badgen.net/badge/Open%20Source%20%3F/GPLv3/green?icon=github)](https://github.com/maxensas/xiletrade/tree/master/src) [![Discord](https://img.shields.io/static/v1?label=Join&message=Discord&color=7289da&logo=discord)](https://discord.gg/AXP5VntYgA) 
+[![Github all releases](https://img.shields.io/github/downloads/maxensas/xiletrade/total.svg)](https://GitHub.com/maxensas/xiletrade/releases/) [![Github latest release](https://img.shields.io/github/downloads/maxensas/xiletrade/latest/total.svg)](https://GitHub.com/maxensas/xiletrade/releases/)
 
 <a alt="Xiletrade screenshot" target="_blank" rel="noopener noreferrer" href="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"><img align="left" width="275" height="332" src="https://github.com/user-attachments/assets/ba015744-ccc2-4bcb-87e1-e07165fcdb33"></a>
 ## One action to price check your item
@@ -35,8 +37,8 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 1. Run your game in **borderless full screen** in order to work correctly.  
 2. **Right click** on system tray icon to configure or close the program.  
-3. **Mouse hover** on each feature until a tooltip appears to get a deep explain.
-
+3. **Mouse hover** on each feature until a tooltip appears to get a deep explain.  
+<br>
 > ## Customizable behaviours :
 >
 > * **Drag main window** wherever you want on your screen.
@@ -46,7 +48,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 > * Adjust **opacity** and **auto-close** when window lose the focus.
 >	 * Click on the **upper left corner** icon of the main window.
 > * **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
-> * **Auto paste** whisper trades in-game from external websites.
+> * **Auto paste** whisper trades in-game from external websites.  
 
 ```
 This tool is designed to comply rules set by the official trade website  
