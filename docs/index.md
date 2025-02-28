@@ -62,6 +62,6 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 * **Auto paste** whisper trades in-game from external websites.  
 
 ```
-This tool is designed to comply rules set by the official trade website  
+Designed to comply rules set by the official trade website  
 in order to avoid abuses with limited data recovery and requests over time.  
 ```
