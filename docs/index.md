@@ -50,8 +50,4 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 ```
 This tool is designed to comply rules set by the official trade website  
 in order to avoid abuses with limited data recovery and requests over time.  
-
-Xiletrade isn't affiliated with or endorsed by Grinding Gear Games in any way.
 ```
-
-More informations about third party apps : [Game Developer Policy](https://www.pathofexile.com/developer/docs/index#policy)
