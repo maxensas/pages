@@ -37,6 +37,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 2. **Right click** on system tray icon to configure or close the program.  
 3. **Mouse hover** on each feature until a tooltip appears to get a deep explain.  
 <br>
+
 > ## Customizable behaviours :
 >
 > * **Drag main window** wherever you want on your screen.
