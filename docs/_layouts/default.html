@@ -14,18 +14,30 @@
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
     <script>
         DarkReader.enable();
-        let langs = ["en", "ko", "fr", "es", "de", "pt", "ru", "th", "ja", "zh"];
+        let langs = ["en", "ko", "fr", "es", "de", "pt", "ru", "th", "ja", "zh", "jp", "kr"];
         let navLang = navigator.language.split('-')[0];
         let langFiltered = langs.filter(value => value == navLang);
+        let setLang = "";
         if (document.location.href.endsWith("pages/")) { // TO replace with "Xiletrade/"
             if (langFiltered.length > 0) {
-                if (langFiltered == "zh") {
-                    langFiltered = "tw";
+                if (langFiltered == "ko") {
+                    langFiltered = "kr";
                 }
-                document.location.href += langFiltered;
+                if (langFiltered == "ja") {
+                    langFiltered = "jp";
+                }
+                if (langFiltered == "zh") {
+                    if (navigator.language.endsWith("CN")) {
+                        langFiltered = "cn";
+                    } else {
+                        langFiltered = "tw";
+                    }
+                }
+                setLang = langFiltered;
             } else {
-                document.location.href += "en";
+                setLang = "en";
             }
+            document.location.href += setLang;
         }
     </script>
     {% endunless %}
