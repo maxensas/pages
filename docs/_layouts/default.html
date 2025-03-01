@@ -14,10 +14,11 @@
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
     <script>
         DarkReader.enable();
-        if (!document.location.href.endsWith(navigator.language + "/")) {
-            document.location.href = document.location.origin + "/pages/" + navigator.language;
+        if (!window.location.href.endsWith(navigator.language + "/")) {
+            window.location.href = window.location.origin + "/pages/" + navigator.language;
         }
     </script>
+    <!--
     <script type="text/javascript">
         let navLangs = [navigator.language]; // Use navigator.langages to match all browsers langages
         navLangs = navLangs.map(lang => lang.split("-")[0]); // Keep only first part of langage
@@ -31,6 +32,7 @@
         }
         detectIfRedirectNeeded();
     </script>
+    -->
     {% endunless %}
     {% include head-custom.html %}
 </head>
