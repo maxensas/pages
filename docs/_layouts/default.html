@@ -15,7 +15,8 @@
     <script>
         DarkReader.enable();
         let langs = ["en", "ko", "fr", "es", "de", "pt", "ru", "th", "ja", "zh"];
-        let langFiltered = langs.filter(value => value == navigator.language);
+        let navLang = navigator.language.split('-')[0];
+        let langFiltered = langs.filter(value => value == navLang);
         if (document.location.href.endsWith("pages/")) { // TO replace with "Xiletrade/"
             if (langFiltered.length > 0) {
                 if (langFiltered == "zh") {
@@ -23,7 +24,7 @@
                 }
                 document.location.href += langFiltered + langFiltered;
             } else {
-                document.location.href += "test" + navigator.language;
+                document.location.href += "en";
             }
         }
     </script>
