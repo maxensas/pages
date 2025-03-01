@@ -14,7 +14,7 @@
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
     <script>
         DarkReader.enable();
-        if (!document.location.href.endsWith(navigator.language)) {
+        if (!document.location.href.endsWith(navigator.language + "/")) {
             document.location.href = document.location.origin + "/pages/" + navigator.language;
         }
     </script>
