@@ -13,7 +13,7 @@ layout: default
 Runs efficiently with few CPU resources.  
 Uses max ***250 MB of RAM*** with no memory allocation spikes.  
 ***NO DATA*** written in the background.  
-lang: {{ site.lang }}
+lang: {{ navigator.language }}
 * * *
 
 # Main features :
