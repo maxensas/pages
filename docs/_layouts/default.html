@@ -13,6 +13,7 @@
     {% unless page.light_mode %}
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
     <script>
+        DarkReader.enable();
         let langs = ["en", "ko", "fr", "es", "de", "pt", "ru", "th", "ja", "zh"];
         let navLang = navigator.language.split('-')[0];
         let langFiltered = langs.filter(value => value == navLang);
@@ -21,11 +22,11 @@
                 if (langFiltered == "zh") {
                     langFiltered = "tw";
                 }
-                document.location.href += langFiltered ;
+                document.location.href += langFiltered;
+            } else {
+                document.location.href += "en";
             }
-            document.location.href += "en";
         }
-        DarkReader.enable();
     </script>
     {% endunless %}
     {% include head-custom.html %}
