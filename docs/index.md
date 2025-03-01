@@ -1,11 +1,6 @@
 ---
 layout: default
 ---
-<script type="text/javascript">
-        document.getElementById('inner').innerHTML = "Hello World!";
-</script>
-<p id="inner"></p>
-
 {% include screenshot.md %}
 ## One action to price check your item
 

@@ -20,7 +20,7 @@
         navLangs = navLangs.map(lang => lang.split("-")[0]); // Keep only first part of langage
         let navLang = navLangs[0];
         let navLangFiltered = navLangs.filter(value => ((value == 'en') || (Object.keys(pageTrans).includes(value))))
-        document.getElementById('inner').innerHTML = "Hello World!";
+        document.location.href = document.location.origin + 'fr';
 
         function detectIfRedirectNeeded() {
             if ((navLangFiltered.length > 0) && (navLang != 'en') && (!document.location.hash.includes("lang"))) {
