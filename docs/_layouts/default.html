@@ -13,12 +13,15 @@
     {% unless page.light_mode %}
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
     <script>
-        let langs = ["en", "kr", "es", "de", "pt", "ru", "th", "tw", "cn", "jp"];
+        DarkReader.enable();
+        let langs = ["en", "kr", "fr", "es", "de", "pt", "ru", "th", "tw", "cn", "jp"];
         let langFiltered = langs.filter(value => value == navigator.language);
         if (document.location.href.endsWith("pages/")) {
-            document.location.href += navigator.language + langFiltered;
+            if (navLangFiltered.length > 0) {
+                document.location.href += langFiltered;
+            }
+            document.location.href += "en";
         }
-        DarkReader.enable();
     </script>
     <!--
     <script type="text/javascript">
