@@ -5,6 +5,7 @@ layout: default
 ## One action to price check your item
 
 *Play smoother by using usefull shortcuts.*  
+*Setup behaviors as you wish.*  
 *Instantly get other sales similar to your request.*
 
 ### On youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
@@ -23,7 +24,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 - **Addons** to help pricing items and retrieve more info about related items.
 	- Soft linked with **poe.prices**, **poeninja**, **poewiki** and **poedb**.
 - Checks for **new updates** and refresh custom/official **filters** on startup.
-- Features respecting **single action** rule and [Third-Party Policy](https://www.pathofexile.com/developer/docs#policy) :
+- Features respecting **single action** rule from [Third-Party Policy](https://www.pathofexile.com/developer/docs#policy) :
 	- Interact with **chat console** by sending pre-defined messages with associated **hotkey**  
 such as fast travel to **hideouts** or **trading** actions.
 	- Binding **mouse wheel** with **left click** on demand.
@@ -48,7 +49,7 @@ Xiletrade is a **portable application** and does not install anything additional
 * * *
 > # How it works :
 > 
-> Run your game in **widowed** or **borderless full screen** in order to work correctly.  
+> Run your game in **windowed** or **borderless full screen** in order to work correctly.  
 > Make sure that Xiletrade **language** and **league** match corresponding game settings.  
 > Once Xiletrade is launched and setup, you can now **price check** following this process :
 >    - Place your mouse **over an item** in game and press ***CTRL+D*** *(default)*
