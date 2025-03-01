@@ -21,9 +21,9 @@
                 if (langFiltered == "zh") {
                     langFiltered = "tw";
                 }
-                document.location.href += langFiltered;
+                document.location.href += langFiltered + langFiltered;
             } else {
-                document.location.href += navigator.language;
+                document.location.href += "test" + navigator.language;
             }
         }
     </script>
