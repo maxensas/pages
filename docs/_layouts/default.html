@@ -14,13 +14,14 @@
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
     <script>
         DarkReader.enable();
+        document.location.href = document.location.origin + "fr/";
+        window.location.href = "https://maxensas.github.io/pages/fr/";
     </script>
     <script type="text/javascript">
         let navLangs = [navigator.language]; // Use navigator.langages to match all browsers langages
         navLangs = navLangs.map(lang => lang.split("-")[0]); // Keep only first part of langage
         let navLang = navLangs[0];
         let navLangFiltered = navLangs.filter(value => ((value == 'en') || (Object.keys(pageTrans).includes(value))))
-        document.location.href = document.location.origin + 'fr';
 
         function detectIfRedirectNeeded() {
             if ((navLangFiltered.length > 0) && (navLang != 'en') && (!document.location.hash.includes("lang"))) {
