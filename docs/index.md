@@ -22,6 +22,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 - **Bulk item exchange** for fast whisper trades through POE.
 - **Addons** to help pricing items and retrieve more info about related items.
 	- Linked with **poe.prices**, **ninja**, **wiki** and **poedb**.
+- Automatically checks for **new updates** and download **`.JSON`** **official filters** on startup.
 - Features without automation.
 	- **Fast TCP logout** / **Updates** / Custom **chat messages** and more. 
 - Binding **mouse wheel** with **left click** on demand respecting single action rule.
@@ -34,12 +35,11 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 ## Installation and Setup :
 
-1. **Download** the latest version and **extract** the `.7zip` archive to the desired directory.
-2. Xiletrade is a **portable application** and does not install anything additional upon launch.
-3. Automatically checks for **new updates** and download **official filters** *(JSON)* on startup.
-4. Select desired **game version**, **language** and **league** under startup or settings window.
-5. **Right click** on system tray icon to configure or close the program.  
-6. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
+1. **Download** the latest version and **extract** **`.7zip`** archive in desired directory.  
+Xiletrade is a **portable application** and does not install anything additional upon launch.
+2. **Right click** on system tray icon to configure or close the program.  
+3. Select desired **game version**, **language** and **league** under startup or settings window.
+4. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
 <br>
 <img src="https://github.com/user-attachments/assets/2aa8b83a-9144-4b56-8d79-1808aac0d486">
 <br>
@@ -47,9 +47,9 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 * * *
 > # How it works :
 > 
-> 1. Run your game in **widowed** or **borderless full screen** in order to work correctly.
-> 2. Make sure that Xiletrade **language** and **league** match corresponding game settings.
-> 3. Once Xiletrade is launched and setup, you can now **price check** following this process :
+> Run your game in **widowed** or **borderless full screen** in order to work correctly.  
+> Make sure that Xiletrade **language** and **league** match corresponding game settings.  
+> Once Xiletrade is launched and setup, you can now **price check** following this process :
 >    - Place your mouse **over an item** in game and press ***CTRL+D*** *(default)*
 >    - It will copy **item info descriptions** from game and open Xiletrade window.
 >    - The window will display **estimated prices** if the search return matching results.
@@ -67,13 +67,10 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 * **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
 * **Auto paste** whisper trades in-game from external websites.  
 
-### Bulk exchange :
+### Optional bulk exchange :
 
-<br>
 <img align="left" src="https://github.com/user-attachments/assets/b404057c-a176-4b85-aaf1-6707a1e47a0c">
 <img src="https://github.com/user-attachments/assets/70b46df7-ca33-472a-832d-2ef11e1513e1">
-
-<br>
 
 ```
 Designed to comply rules set by the official trade website  
