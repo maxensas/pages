@@ -4,8 +4,8 @@ layout: default
 {% include screenshot.md %}
 ## One action to price check your item
 
-*Play smoother by using usefull shortcuts.*  
 *Setup behaviors as you wish.*  
+*Play smoother by using usefull shortcuts.*  
 *Instantly get other sales similar to your request.*
 
 ### On youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
@@ -13,7 +13,7 @@ layout: default
 Runs efficiently with few CPU resources.  
 Uses max ***250 MB of RAM*** with no memory allocation spikes.  
 ***NO DATA*** written in the background.  
-<br>
+
 * * *
 
 # Main features :
