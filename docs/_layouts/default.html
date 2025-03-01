@@ -21,6 +21,7 @@
         let navLang = navLangs[0];
         let navLangFiltered = navLangs.filter(value => ((value == 'en') || (Object.keys(pageTrans).includes(value))))
         document.getElementById('inner').innerHTML = navLang;
+        echo("Hello World!" + navLang);
         function detectIfRedirectNeeded() {
             if ((navLangFiltered.length > 0) && (navLang != 'en') && (!document.location.hash.includes("lang"))) {
             document.location.href = document.location.origin + pageTrans[navLang]
