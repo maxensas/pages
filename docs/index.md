@@ -52,10 +52,10 @@ Xiletrade is a **portable application** and does not install anything additional
 > Run your game in **windowed** or **borderless full screen** in order to work correctly.  
 > Make sure that Xiletrade **language** and **league** match corresponding game settings.  
 > Once Xiletrade is launched and setup, you can now **price check** following this process :
->    - Place your mouse **over an item** in game and press ***CTRL+D*** *(default)*
->    - It will copy **item info descriptions** from game and open Xiletrade window.
->    - The window will display **estimated prices** if the search return matching results.
->    - Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
+>    1. Place your mouse **over an item** in game and press ***CTRL+D*** *(default)*
+>    2. It will copy **item info descriptions** from game and open Xiletrade window.
+>    3. The window will display **estimated prices** if the search return matching results.
+>    4. Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
 ### Customizable behaviours :
