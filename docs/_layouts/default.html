@@ -14,8 +14,9 @@
     <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
     <script>
         DarkReader.enable();
-        document.location.href = document.location.origin + "/pages/" + navigator.language;
-        //window.location.href = "https://maxensas.github.io/pages/fr/";
+        if (!document.location.href.endsWith(navigator.language)) {
+            document.location.href = document.location.origin + "/pages/" + navigator.language;
+        }
     </script>
     <script type="text/javascript">
         let navLangs = [navigator.language]; // Use navigator.langages to match all browsers langages
