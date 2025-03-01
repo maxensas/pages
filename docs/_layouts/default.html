@@ -16,8 +16,8 @@
         DarkReader.enable();
         let langs = ["en", "kr", "fr", "es", "de", "pt", "ru", "th", "tw", "cn", "jp"];
         let langFiltered = langs.filter(value => value == navigator.language);
-        if (document.location.href.endsWith("pages/")) {
-            if (navLangFiltered.length > 0) {
+        if (document.location.href.endsWith("pages/")) { // replace with Xiletrade/
+            if (langFiltered.length > 0) {
                 document.location.href += langFiltered;
             }
             document.location.href += "en";
