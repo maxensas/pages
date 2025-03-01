@@ -17,17 +17,20 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 # Main features :
 
-- Fast and customisable **Price checker** for all items.
+- Fast **Price checker** for all items using defined shortcut ***CTRL+D*** *by default*.
+- Open **Settings** quickly with ***CTRL+R*** to modify price check behaviours.
 - **Bulk item exchange** for fast whisper trades through POE.
 - **Addons** to help pricing items and retrieve more info about related items.
 	- Linked with **poe.prices**, **ninja**, **wiki** and **poedb**.
 - Features without automation.
 	- **Fast TCP logout** / **Updates** / Custom **chat messages** and more. 
+- Binding **mouse wheel** with **left click** on demand respecting single action rule.
 - **Regex manager**
 	- Manage a defined list of regular expressions.
 	- Auto paste into the highlight bar.
-- Open **Settings** with ***CTRL+R*** to modify automatic price check behaviours.
-- Binding **mouse wheel** with **left click** on demand respecting single action rule.
+
+<img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">  
+<br>
 
 ## Installation and Setup :
 
@@ -38,7 +41,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 5. **Right click** on system tray icon to configure or close the program.  
 6. **Mouse hover** on each feature until a tooltip appears to get a deep explain.   
 <br>
-<img src="https://github.com/user-attachments/assets/defedc9d-a753-4444-bfaf-084f34fb59e6">
+<img src="https://github.com/user-attachments/assets/2aa8b83a-9144-4b56-8d79-1808aac0d486">
 <br>
 
 * * *
@@ -63,6 +66,14 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 	* Click on the **upper left corner** icon of the main window.
 * **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
 * **Auto paste** whisper trades in-game from external websites.  
+
+### Bulk exchange :
+
+<br>
+<img align="left" src="https://github.com/user-attachments/assets/b404057c-a176-4b85-aaf1-6707a1e47a0c">
+<img src="https://github.com/user-attachments/assets/70b46df7-ca33-472a-832d-2ef11e1513e1">
+
+<br>
 
 ```
 Designed to comply rules set by the official trade website  
