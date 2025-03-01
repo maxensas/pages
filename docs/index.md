@@ -21,13 +21,14 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 - Open **Settings** quickly with ***CTRL+R*** to modify price check behaviours.
 - **Bulk item exchange** for fast whisper trades through POE.
 - **Addons** to help pricing items and retrieve more info about related items.
-	- Linked with **poe.prices**, **ninja**, **wiki** and **poedb**.
-- Automatically checks for **new updates** and download **`.JSON`** **official filters** on startup.
-- Features without automation.
-	- **Fast TCP logout** / **Updates** / Custom **chat messages** and more. 
-- Binding **mouse wheel** with **left click** on demand respecting single action rule.
-- **Regex manager**
-	- Manage a defined list of regular expressions.
+	- Soft linked with **poe.prices**, **poeninja**, **poewiki** and **poedb**.
+- Checks for **new updates** and refresh custom/official **filters** on startup.
+- Features respecting **single action** rule and [Third-Party Policy](https://www.pathofexile.com/developer/docs#policy) :
+	- Interact with **chat console** by sending pre-defined messages with associated **hotkey**  
+such as fast travel to **hideouts** or **trading** actions.
+	- Binding **mouse wheel** with **left click** on demand.
+- **Regex manager** utility.
+	- Manage a defined list of **regular expressions**.
 	- Auto paste into the highlight bar.
 
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">  
@@ -66,11 +67,6 @@ Xiletrade is a **portable application** and does not install anything additional
 	* Click on the **upper left corner** icon of the main window.
 * **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
 * **Auto paste** whisper trades in-game from external websites.  
-
-### Optional bulk exchange :
-
-<img align="left" src="https://github.com/user-attachments/assets/b404057c-a176-4b85-aaf1-6707a1e47a0c">
-<img src="https://github.com/user-attachments/assets/70b46df7-ca33-472a-832d-2ef11e1513e1">
 
 ```
 Designed to comply rules set by the official trade website  
