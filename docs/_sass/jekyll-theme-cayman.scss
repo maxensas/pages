@@ -118,6 +118,11 @@ svg {
     fill-rule: nonzero;
 }
 
+.svg-logo:hover {
+    fill: $body-link-color;
+    fill-rule: nonzero;
+}
+
 .btn2 {
     display: inline-block;
     margin-bottom: 0.2rem;
