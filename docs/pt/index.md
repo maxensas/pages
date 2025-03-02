@@ -21,7 +21,7 @@ strings:
 *Jogue mais suavemente utilizando atalhos úteis.*  
 *Receba outras vendas semelhantes ao seu pedido.*  
 
-### No YouTube: [Preços](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - outu.be/libdIjrNM-8)<br> 
+### No YouTube: [Preços](https://youtu.be/4mP3uOsr8oc) - [Intercâmbio](https://youtu.be/6yuLZXTho-A) - [Configurações](https://youtu.be/libdIjrNM-8)<br> 
 Executa de forma eficiente com poucos recursos de CPU.  
 Utiliza máx 250 MB de RAM sem picos de alocação de memória. 
 ***SEM DADOS*** escrito no fundo.  
@@ -33,7 +33,7 @@ Utiliza máx 250 MB de RAM sem picos de alocação de memória.
 - Verificador de preços rápido para todos os artigos utilizando o atalho definido ***CTRL+D*** *defeito*.
 - Abra **Definições** com ***CTRL+R*** para modificar os comportamentos de verificação de preços.
 - **Troca de artigos em massa** para trocas rápidas através de POE.
-- **Add-ons** para ajudar a definir o preço dos artigos e obter mais informações sobre os artigos relacionados.
+- **Add-ons** para ajudar a definir o preço dos artigos e obter mais info. sobre os artigos relacionados.
 	- Links suaves com **poe.prices**, **poeninja**, **poewiki** e **poedb**.
 - Verifica se existem **novas atualizações** e atualiza os **filtros** personalizados/oficiais no arranque.
 - Características que respeitam a regra de **ação única** da [Política de Terceiros](https://www.pathofexile.com/developer/docs#policy) :
@@ -65,10 +65,10 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 > Execute o seu jogo em **janela** ou **ecrã completo sem bordas** para funcionar correctamente.
 > Certifique-se de que o **idioma** e a **liga** do Xiletrade correspondem às definições do jogo.
 > Depois de o Xiletrade ser iniciado e configurado, pode **verificar o preço** seguindo este processo: 
->	1. Coloque o rato **sobre um item** no jogo e prima ***CTRL+D*** *(padrão)* 
->	2. Irá copiar as **descrições de informação do item** do jogo e abrirá a janela do Xiletrade.
->	3. A janela irá apresentar **preços estimados** se a pesquisa devolver resultados correspondentes.
->	4. Os preços apresentados baseiam-se nos **sites comerciais oficiais** [PoE 1](https://www.pathofexile.com/trade/search/) e [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).  
+>   1. Coloque o rato **sobre um item** no jogo e prima ***CTRL+D*** *(padrão)* 
+>   2. Irá copiar as **descrições de informação do item** do jogo e abrirá a janela do Xiletrade.
+>   3. A janela irá apresentar **preços estimados** se a pesquisa devolver resultados correspondentes.
+>   4. Os preços apresentados baseiam-se nos **sites comerciais oficiais** [PoE 1](https://www.pathofexile.com/trade/search/) e [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).  
 
 <br>
 
