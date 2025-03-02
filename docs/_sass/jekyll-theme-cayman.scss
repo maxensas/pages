@@ -155,6 +155,15 @@ a {
     }
 }
 
+.page-lang {
+    img {
+        opacity: 0.5;
+    }
+
+    img:hover {
+        opacity: 1;
+    }
+}
 
 .project-name {
   margin-top: 0;
@@ -231,7 +240,6 @@ a {
 
     img {
         max-width: 100%;
-        opacity: 0.5;
     }
 
     .shot {
