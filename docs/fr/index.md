@@ -52,7 +52,7 @@ tels que le déplacement rapide vers les **cachettes** ou les actions **d'échan
 Xiletrade est une **application portable** et n'installe rien de plus au lancement.
 2. **Clic droit** sur l'icône de la barre d'état système pour configurer ou fermer le programme.
 3. Sélectionnez la **version du jeu**, la **langue** et la **ligue** souhaitées dans la fenêtre de démarrage ou de paramètres.
-4. **Passez la souris** sur chaque fonctionnalité jusqu'à ce qu'une info-bulle apparaisse pour obtenir une explication détaillée.  
+4. **Passez la souris** sur chaque fonctionnalitée jusqu'à ce qu'une info-bulle apparaisse pour obtenir une explication détaillée.  
 <br>
 <img src="https://github.com/user-attachments/assets/2aa8b83a-9144-4b56-8d79-1808aac0d486">
 <br>
