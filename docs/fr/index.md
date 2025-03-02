@@ -18,9 +18,9 @@ strings:
 
 *Configurez les comportements comme vous le souhaitez.*  
 *Jouez plus facilement en utilisant des raccourcis utiles.*  
-*Obtenez rapidement d'autres ventes similaires à votre demande.*  
+*Obtenez d'autres ventes similaires à votre demande.*  
 
-### Sur YouTube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+### Sur YouTube : [Vérification](https://youtu.be/4mP3uOsr8oc) - [Echange en vrac](https://youtu.be/6yuLZXTho-A) - [Paramètres](https://youtu.be/libdIjrNM-8)<br>
 
 Fonctionne efficacement avec peu de ressources CPU.  
 Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.  
@@ -28,7 +28,7 @@ Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.
 
 * * *
 
-# Principales fonctionnalités :
+# Principales fonctionnalitées :
 
 - **Vérificateur de prix** rapide pour tous les articles à l'aide du raccourci défini ***CTRL+D*** *par défaut*.
 - Ouvrez les **Paramètres** avec ***CTRL+R*** pour modifier les comportements de vérification des prix.
