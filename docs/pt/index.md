@@ -15,15 +15,15 @@ strings:
 ---
 {% include screenshot.md %} 
 
-## Uma ação para verificar o preço do seu artigo 
+## Uma ação para verificar o preço do item
 
 *Configure os comportamentos como desejar.*  
 *Jogue mais suavemente utilizando atalhos úteis.*  
-*Receba instantaneamente outras vendas semelhantes ao seu pedido.*  
+*Receba outras vendas semelhantes ao seu pedido.*  
 
 ### No YouTube: [Preços](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - outu.be/libdIjrNM-8)<br> 
 Executa de forma eficiente com poucos recursos de CPU.  
-Utiliza no máximo ***250 MB de RAM*** sem picos de alocação de memória.  
+Utiliza máx 250 MB de RAM sem picos de alocação de memória. 
 ***SEM DADOS*** escrito no fundo.  
 
 * * * 
