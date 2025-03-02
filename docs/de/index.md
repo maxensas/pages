@@ -14,10 +14,10 @@ strings:
   support: Unterstützung
 ---
 {% include screenshot.md %}
-## Eine Aktion, um den Preis Ihres Artikels zu prüfen
+## Überprüfen Sie den Preis Ihres Artikels
 
 *Richten Sie das Verhalten nach Wunsch ein.*  
-*Spielen Sie flüssiger, indem Sie nützliche Tastenkombinationen verwenden.*  
+*Spielen Sie flüssiger mit Tastenkombinationen.* 
 *Erhalten Sie sofort andere Verkäufe, die Ihrer Anfrage ähneln.*  
 
 ### Auf YouTube: [Preise](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Einstellungen](https://youtu.be/libdIjrNM-8)<br>
@@ -66,7 +66,7 @@ Xiletrade ist eine **portable Anwendung** und installiert beim Start nichts zus�
 > 1. Bewegen Sie Ihre Maus **über einen Artikel** im Spiel und drücken Sie ***STRG+D*** *(Standard)*
 > 2. Es werden **Artikelinfobeschreibungen** aus dem Spiel kopiert und das Xiletrade-Fenster geöffnet.
 > 3. Das Fenster zeigt **geschätzte Preise** an, wenn die Suche passende Ergebnisse liefert.
-> 4. Die angezeigten Preise basieren auf den **offiziellen Handelswebsites** [PoE 1](https://www.pathofexile.com/trade/search/) und [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
+> 4. Die angezeigten Preise basieren auf den **offiziellen Handelswebsites** [PoE 1](https://www.pathofexile.com/trade/search/) / [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
 ### Anpassbares Verhalten:

@@ -28,7 +28,7 @@ Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.
 
 * * *
 
-# Principales fonctionnalitées :
+# Principales fonctionnalitées
 
 - **Vérificateur de prix** rapide pour tous les articles à l'aide du raccourci défini ***CTRL+D*** *par défaut*.
 - Ouvrez les **Paramètres** avec ***CTRL+R*** pour modifier les comportements de vérification des prix.
@@ -47,7 +47,7 @@ tel que le déplacement rapide vers la **cachette** ou les actions **d'échange*
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">
 <br>
 
-## Installation et configuration :
+## Installation et configuration
 
 1. **Téléchargez** la dernière version et **extrayez** l'archive **`.7zip`** dans le répertoire souhaité.
 Xiletrade est une **application portable** et n'installe rien de plus au lancement.
@@ -59,7 +59,7 @@ Xiletrade est une **application portable** et n'installe rien de plus au lanceme
 <br>
 
 * * *
-> # Comment ça marche :
+> # Comment ça marche
 >
 > Exécutez votre jeu en mode **plein écran fenêtré** ou **sans bordure** pour qu'il fonctionne correctement.
 > Assurez-vous que la **langue** et la **ligue** de Xiletrade correspondent aux paramètres de jeu correspondants.
