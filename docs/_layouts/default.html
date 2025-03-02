@@ -50,7 +50,7 @@
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         <p>{% include flags.md %}</p>
         {% if site.show_downloads %}
-        <a href="{{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file }}" class="btn2">{{ page.strings.download | default: site.strings.download }} {{ site.github.latest_version }}</a>
+        <a href="{{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file }}" class="btn2">{{ page.strings.download | default: site.strings.download }}</a>
         {% endif %}
         {% if site.github.is_project_page %}
         <a target="_blank" rel="noopener noreferrer" href="{{ site.github.repository_url }}" class="btn2">
@@ -70,7 +70,7 @@
             <svg width="15" height="15" viewBox="-3.5 0 48 48" xmlns="http://www.w3.org/2000/svg" class="footer-logo-mktg d-block" style="--darkreader-inline-fill:var(--darkreader-background-000000, #000000)"><g stroke-width="0" /><g stroke-linecap="round" stroke-linejoin="round" /><g style="--darkreader-inline-stroke:none"><path d="M838.912 663.62c-2.241-2.534-6.29-3.62-11.472-3.62h-15.035a2.15 2.15 0 0 0-2.128 1.801l-6.26 39.393a1.284 1.284 0 0 0 1.275 1.48h9.282l2.332-14.67-.073.46a2.14 2.14 0 0 1 2.12-1.802h4.41c8.668 0 15.452-3.492 17.434-13.593.06-.3.154-.874.154-.874.563-3.738-.004-6.275-2.04-8.576m4.389 10.488c-2.156 9.945-9.03 15.208-19.937 15.208h-3.956L816.458 708h6.416a1.88 1.88 0 0 0 1.86-1.576l.075-.396 1.476-9.273.095-.512a1.88 1.88 0 0 1 1.858-1.576h1.172c7.58 0 13.516-3.056 15.25-11.89.696-3.547.362-6.52-1.359-8.669" transform="translate(-804 -660)" fill="#022B87" style="--darkreader-inline-fill:var(--darkreader-background-022b87, #02226c)" fill-rule="evenodd" /></g></svg>
             Support
         </a>
-        <br/><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i>
+        <br /><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i>{{ site.github.latest_version }}
         {% endif %}
     </header>
     <main id="content" class="main-content" role="main">
