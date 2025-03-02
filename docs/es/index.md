@@ -14,7 +14,7 @@ strings:
   support: Apoyar
 ---
 {% include screenshot.md %}
-## Sola acción para verificar el precio del artículo
+## Una sola acción para verificar el precio
 
 *Configura los comportamientos como desees.*  
 *Juega de forma más fluida usando atajos útiles.*  
@@ -23,7 +23,7 @@ strings:
 ### En YouTube: [Precios](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Configuración](https://youtu.be/libdIjrNM-8)<br>
 
 Se ejecuta de manera eficiente con pocos recursos de CPU.  
-Usa máximo ***250 MB de RAM*** sin picos de asignación de memoria.  
+Usa máx ***250 MB de RAM*** sin picos de asignación de memoria.  
 ***SIN DATOS*** escritos en segundo plano.  
 
 * * *
