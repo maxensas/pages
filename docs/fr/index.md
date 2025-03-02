@@ -20,7 +20,7 @@ strings:
 *Jouez plus facilement en utilisant des raccourcis utiles.*  
 *Obtenez d'autres ventes similaires à votre demande.*  
 
-### Sur YouTube : [Vérification](https://youtu.be/4mP3uOsr8oc) - [Echange en vrac](https://youtu.be/6yuLZXTho-A) - [Paramètres](https://youtu.be/libdIjrNM-8)<br>
+### Sur YouTube : [Vérification](https://youtu.be/4mP3uOsr8oc) - [Échanges](https://youtu.be/6yuLZXTho-A) - [Paramètres](https://youtu.be/libdIjrNM-8)<br>
 
 Fonctionne efficacement avec peu de ressources CPU.  
 Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.  
@@ -36,7 +36,7 @@ Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.
 - **Addons** pour aider à vérifier le prix des articles et récupérer plus d'info sur ces derniers.
 	- Liaison logicielle avec **poe.prices**, **poeninja**, **poewiki** et **poedb**.
 - Vérifie les **nouvelles mises à jour** et actualise les **filtres** personnalisés/officiels au démarrage.
-- Fonctionnalités respectant la règle **d'action unique** de la [Politique des tiers](https://www.pathofexile.com/developer/docs#policy) :
+- Fonctionnalités respectant la règle **d'action unique** de la [Politique d'application tierces](https://www.pathofexile.com/developer/docs#policy) :
 	- Interagissez avec la **console de discussion** en envoyant des messages prédéfinis à l'aide de **raccourci** 
 tel que le déplacement rapide vers la **cachette** ou les actions **d'échange**.
 	- Liaison de la **molette de la souris** avec le **clic gauche** à la demande.
