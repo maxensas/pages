@@ -120,11 +120,7 @@ a {
 .italic {
     opacity: 0.5;
 }
-/*
-svg {
-    filter: invert(0) !important;
-}
-*/
+
 .svg-logo {
     fill: rgba(255, 255, 255, 0.7);
     fill-rule: nonzero;
@@ -235,6 +231,7 @@ svg {
 
     img {
         max-width: 100%;
+        opacity: 0.5;
     }
 
     .shot {
