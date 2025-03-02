@@ -11,7 +11,7 @@ strings:
   download: Download
   repository: View on GitHub
   latest: latest release
-  support: Support
+  support: Donate
 github:
   repository_name: Xiletrade
   owner_name: maxensas

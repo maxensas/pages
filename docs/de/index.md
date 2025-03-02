@@ -11,7 +11,7 @@ strings:
   footer: Kostenloser Service, der für seine ordnungsgemäße Funktion fortlaufende Wartung erfordert.
   issue: und verwenden
   latest: neueste Version
-  support: Unterstützung
+  support: Spenden
 ---
 {% include screenshot.md %}
 ## Überprüfen Sie den Preis Ihres Artikels

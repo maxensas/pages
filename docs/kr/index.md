@@ -11,7 +11,7 @@ strings:
   footer: 제대로 작동하려면 지속적인 유지 관리가 필요한 무료 서비스입니다.
   issue: 그리고 사용
   latest: 최신 릴리스
-  support: 지원하다
+  support: 기부
 ---
 {% include screenshot.md %}
 ## 한 가지 작업으로 품목 가격 확인

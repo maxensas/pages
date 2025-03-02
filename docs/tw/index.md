@@ -11,7 +11,7 @@ strings:
   footer: 免費服務需要持續維護才能正常運作。
   issue: 並使用
   latest: 最新版本
-  support: 支援
+  support: 捐贈
 ---
 {% include screenshot.md %}
 ## 一個動作可以檢查您的商品價格

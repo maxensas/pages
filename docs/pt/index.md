@@ -11,7 +11,7 @@ strings:
   footer: Serviço gratuito que requer manutenção contínua para funcionar corretamente.
   issue: e usar
   latest: última versão
-  support: Apoiar
+  support: Doar
 ---
 {% include screenshot.md %} 
 

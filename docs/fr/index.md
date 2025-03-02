@@ -11,7 +11,7 @@ strings:
   footer: Service gratuit nécessitant une maintenance continue pour fonctionner correctement.
   issue: et utilise
   latest: dernière release
-  support: Supporter
+  support: Contribuer
 ---
 {% include screenshot.md %}
 ## Vérifier le prix de votre article en un clic
