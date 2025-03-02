@@ -48,7 +48,6 @@
         <div class="page-lang">{% include flags.md %}</div>
         <div>
             {% if site.github.is_project_page %}
-            <br />
             <a class="btn" target="_blank" rel="noopener noreferrer" href="{{ site.github.repository_url }}">
                 <svg height="16" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1" viewBox="0 0 367.4 90">
                     <g class="svg-logo">
@@ -77,12 +76,11 @@
             {% endif %}
         </div>
         <div class="page-header-padding">
-            
             <h1 class="project-name"><img src="https://github.com/user-attachments/assets/811a7598-205b-43a6-999b-4e45cb0d8e90"> {{ page.title | default: site.title | default: site.github.repository_name }}</h1>
             <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
             {% if site.show_downloads %}
             <a class="btn2" href="{{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file }}">
-                {{ page.strings.download | default: site.strings.download }}
+                <div class="download">{{ page.strings.download | default: site.strings.download }}</div>
                 <br /><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i>{{ site.github.latest_version }}
             </a>
             {% endif %}
