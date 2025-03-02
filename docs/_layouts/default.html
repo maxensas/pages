@@ -44,8 +44,8 @@
     {% include head-custom.html %}
 </head>
 <body>
-    <div class="page-lang">Skip</div>
     <header class="page-header" role="banner">
+        <div>Skip</div>
         <h1 class="project-name"><img src="https://i.imgur.com/dhWQgtY.png" width="70" height="70"> {{ page.title | default: site.title | default: site.github.repository_name }}</h1>
         <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         <p>{% include flags.md %}</p>
