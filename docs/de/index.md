@@ -23,7 +23,7 @@ strings:
 ### Auf YouTube: [Preise](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Einstellungen](https://youtu.be/libdIjrNM-8)<br>
 
 Läuft effizient mit wenigen CPU-Ressourcen.  
-Verwendet max. ***250 MB RAM*** ohne Speicherzuweisungsspitzen.  
+Verwendet max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.  
 ***KEINE DATEN*** im Hintergrund geschrieben.  
 
 * * *
