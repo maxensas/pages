@@ -11,6 +11,7 @@ strings:
   footer: 正常に機能するには継続的なメンテナンスが必要な無料サービス。
   issue: そして
   latest: 最新リリースを使用
+  support: サポートする
 ---
 {% include screenshot.md %}
 ## 1 つのアクションでアイテムの価格をチェック

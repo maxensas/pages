@@ -11,6 +11,7 @@ strings:
   footer: Servicio gratuito que requiere mantenimiento constante para funcionar correctamente.
   issue: y utilizar
   latest: última versión
+  support: Apoyar
 ---
 {% include screenshot.md %}
 ## Una sola acción para verificar el precio de tu artículo
