@@ -82,6 +82,13 @@ a {
             fill: rgba(255, 255, 255, 1);
             fill-rule: nonzero;
         }
+
+        @media (prefers-color-scheme: dark) {
+            .svg-logo {
+                fill: rgba(255, 255, 255, 1);
+                fill-rule: nonzero;
+            }
+        }
     }
 
     + .btn {
@@ -113,14 +120,21 @@ a {
 .italic {
     opacity: 0.5;
 }
-
+/*
 svg {
     filter: invert(0) !important;
 }
-
+*/
 .svg-logo {
     fill: rgba(255, 255, 255, 0.7);
     fill-rule: nonzero;
+}
+
+@media (prefers-color-scheme: dark) {
+    .svg-logo {
+        fill: rgba(255, 255, 255, 0.7);
+        fill-rule: nonzero;
+    }
 }
 
 .page-header {
