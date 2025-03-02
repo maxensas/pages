@@ -53,7 +53,6 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 2. **Clique com o botão direito do rato** no ícone da bandeja do sistema para configurar ou fechar o programa.
 3. Selecione a **versão** do jogo, o **idioma** e a **liga** pretendidos na janela de arranque ou nas definições.
 4. **Passe o rato** sobre cada recurso até que apareça uma dica de ferramenta para uma explicação mais detalhada.   
-
 <br>
 <img src="https://github.com/user-attachments/assets/2aa8b83a-9144-4b56-8d79-1808aac0d486">
 <br>
