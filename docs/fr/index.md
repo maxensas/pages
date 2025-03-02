@@ -23,7 +23,7 @@ strings:
 ### Sur YouTube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
 Fonctionne efficacement avec peu de ressources CPU.  
-Utilise un maximum de ***250 Mo de RAM*** sans pics d'allocation de mémoire.  
+Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.  
 ***AUCUNE DONNÉE*** écrite en arrière-plan.  
 
 * * *
@@ -33,12 +33,12 @@ Utilise un maximum de ***250 Mo de RAM*** sans pics d'allocation de mémoire.
 - **Vérificateur de prix** rapide pour tous les articles à l'aide du raccourci défini ***CTRL+D*** *par défaut*.
 - Ouvrez les **Paramètres** avec ***CTRL+R*** pour modifier les comportements de vérification des prix.
 - **Échange d'articles en vrac** pour des échanges rapides via POE.
-- **Addons** pour aider à vérifier le prix des articles et récupérer plus d'informations sur ces derniers.
+- **Addons** pour aider à vérifier le prix des articles et récupérer plus d'info sur ces derniers.
 	- Liaison logicielle avec **poe.prices**, **poeninja**, **poewiki** et **poedb**.
 - Vérifie les **nouvelles mises à jour** et actualise les **filtres** personnalisés/officiels au démarrage.
 - Fonctionnalités respectant la règle **d'action unique** de la [Politique des tiers](https://www.pathofexile.com/developer/docs#policy) :
-	- Interagissez avec la **console de discussion** en envoyant des messages prédéfinis avec le **raccourci** associé.
-tels que le déplacement rapide vers les **cachettes** ou les actions **d'échange**.
+	- Interagissez avec la **console de discussion** en envoyant des messages prédéfinis à l'aide de **raccourci** 
+tel que le déplacement rapide vers la **cachette** ou les actions **d'échange**.
 	- Liaison de la **molette de la souris** avec le **clic gauche** à la demande.
 - Utilitaire **Regex manager**.
 	- Gérez une liste définie d'**expressions régulières**.
@@ -52,7 +52,7 @@ tels que le déplacement rapide vers les **cachettes** ou les actions **d'échan
 1. **Téléchargez** la dernière version et **extrayez** l'archive **`.7zip`** dans le répertoire souhaité.
 Xiletrade est une **application portable** et n'installe rien de plus au lancement.
 2. **Clic droit** sur l'icône de la barre d'état système pour configurer ou fermer le programme.
-3. Sélectionnez la **version du jeu**, la **langue** et la **ligue** souhaitées dans la fenêtre de démarrage ou de paramètres.
+3. Sélectionnez la **version du jeu**, la **langue** et la **ligue** dans la fenêtre de démarrage ou de paramètres.
 4. **Passez la souris** sur chaque fonctionnalitée jusqu'à ce qu'une info-bulle apparaisse pour obtenir une explication détaillée.  
 <br>
 <img src="https://github.com/user-attachments/assets/2aa8b83a-9144-4b56-8d79-1808aac0d486">
