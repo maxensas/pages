@@ -84,11 +84,6 @@ a {
         }
     }
 
-    &:hover > .svg-logo {
-        fill: $body-link-color;
-        fill-rule: nonzero;
-    }
-
     + .btn {
         margin-left: 1rem;
     }
@@ -125,11 +120,6 @@ svg {
 
 .svg-logo {
     fill: rgba(255, 255, 255, 1);
-    fill-rule: nonzero;
-}
-.svg-logo:focus,
-.svg-logo:hover {
-    fill: $body-link-color;
     fill-rule: nonzero;
 }
 
