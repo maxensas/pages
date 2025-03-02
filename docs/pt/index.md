@@ -30,8 +30,8 @@ Utiliza máx 250 MB de RAM sem picos de alocação de memória.
 
 # Características principais:
 
-- Verificador de preços rápido para todos os artigos utilizando o atalho definido ***CTRL+D*** *por defeito*.
-- Abra **Definições** rapidamente com ***CTRL+R*** para modificar os comportamentos de verificação de preços.
+- Verificador de preços rápido para todos os artigos utilizando o atalho definido ***CTRL+D*** *defeito*.
+- Abra **Definições** com ***CTRL+R*** para modificar os comportamentos de verificação de preços.
 - **Troca de artigos em massa** para trocas rápidas através de POE.
 - **Add-ons** para ajudar a definir o preço dos artigos e obter mais informações sobre os artigos relacionados.
 	- Links suaves com **poe.prices**, **poeninja**, **poewiki** e **poedb**.
@@ -64,9 +64,11 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 >
 > Execute o seu jogo em **janela** ou **ecrã completo sem bordas** para funcionar correctamente.
 > Certifique-se de que o **idioma** e a **liga** do Xiletrade correspondem às definições do jogo.
-> Depois de o Xiletrade ser iniciado e configurado, pode **verificar o preço** seguindo este processo: > 1. Coloque o rato **sobre um item** no jogo e prima ***CTRL+D*** *(padrão)* > 2. Irá copiar as **descrições de informação do item** do jogo e abrirá a janela do Xiletrade.
-> 3. A janela irá apresentar **preços estimados** se a pesquisa devolver resultados correspondentes.
-> 4. Os preços apresentados baseiam-se nos **sites comerciais oficiais** [PoE 1](https://www.pathofexile.com/trade/search/) e [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).  
+> Depois de o Xiletrade ser iniciado e configurado, pode **verificar o preço** seguindo este processo: 
+>	1. Coloque o rato **sobre um item** no jogo e prima ***CTRL+D*** *(padrão)* 
+>	2. Irá copiar as **descrições de informação do item** do jogo e abrirá a janela do Xiletrade.
+>	3. A janela irá apresentar **preços estimados** se a pesquisa devolver resultados correspondentes.
+>	4. Os preços apresentados baseiam-se nos **sites comerciais oficiais** [PoE 1](https://www.pathofexile.com/trade/search/) e [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).  
 
 <br>
 
@@ -81,5 +83,6 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 * **Colação automática** de trocas sussurradas no jogo de sites externos.  
 
 ```
-Concebido para cumprir as regras definidas pelo site oficial do comércio para evitar abusos com recuperação limitada de dados e pedidos ao longo do tempo.
+Concebido para cumprir as regras definidas pelo site oficial do comércio para evitar abusos 
+com recuperação limitada de dados e pedidos ao longo do tempo.
 ```
