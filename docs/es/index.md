@@ -30,12 +30,12 @@ Usa máx ***250 MB de RAM*** sin picos de asignación de memoria.
 
 # Características principales:
 
-- **Verificador de precios** rápido para todos los artículos usando el atajo definido ***CTRL+D*** *por defecto*.
+- **Verificador de precios** rápido para todos los artículos usando el atajo definido ***CTRL+D*** *defecto*.
 - Abre **Configuración** rápidamente con ***CTRL+R*** para modificar los comportamientos de verificación de precios.
 - **Intercambio masivo de artículos** para intercambios rápidos y confidenciales a través de POE.
 - **Complementos** para ayudar a determinar el precio de los artículos y obtener más información sobre los artículos relacionados.
 	- Vinculación flexible con **poe.prices**, **poeninja**, **poewiki** y **poedb**.
-- Comprueba si hay **nuevas actualizaciones** y actualiza los **filtros** personalizados/oficiales al inicio.
+- Comprueba si hay **nuevas actualizaciones** y actualiza los **filtros** al inicio.
 - Funciones que respetan la regla de **acción única** de la [Política de terceros](https://www.pathofexile.com/developer/docs#policy):
 	- Interactúa con la **consola de chat** enviando mensajes predefinidos con la **tecla de acceso rápido** asociada
 como viaje rápido a **escondites** o acciones de **intercambio**.
@@ -65,9 +65,9 @@ Xiletrade es una **aplicación portátil** y no instala nada adicional al inicia
 > Asegúrate de que el **idioma** y la **liga** de Xiletrade coincidan con la configuración del juego correspondiente.
 > Una vez que Xiletrade se haya iniciado y configurado, podrás **verificar el precio** siguiendo este proceso:
 > 1. Coloca el mouse **sobre un artículo** en el juego y presiona ***CTRL+D*** *(predeterminado)*
-> 2. Copiará las **descripciones de información del artículo** del juego y abrirá la ventana de Xiletrade.
+> 2. Copiará las **descripciones del artículo** del juego y abrirá la ventana de Xiletrade.
 > 3. La ventana mostrará **precios estimados** si la búsqueda arroja resultados coincidentes.
-> 4. Los precios que se muestran se basan en los **sitios web oficiales de comercio** [PoE 1](https://www.pathofexile.com/trade/search/) y [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
+> 4. Los precios que se muestran se basan en los **sitios web oficiales** [PoE 1](https://www.pathofexile.com/trade/search/) y [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
 ### Comportamientos personalizables:
