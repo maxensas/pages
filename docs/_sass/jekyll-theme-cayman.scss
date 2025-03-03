@@ -184,6 +184,14 @@ a {
     fill-rule: nonzero;
 }
 
+.svg-donate {
+    opacity: 0.6;
+
+    &:hover {
+        opacity: 1;
+    }
+}
+
 @media (prefers-color-scheme: dark) {
     .svg-logo {
         fill: rgba(255, 255, 255, 0.7);
