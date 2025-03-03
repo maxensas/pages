@@ -76,7 +76,7 @@ in order to avoid abuses with limited data recovery and requests over time.
 ```
 * * *
 
-## {% include questionmark.svg %} FAQ :
+## {% include finger.svg %} FAQ :
 
 - ***Does the application support all languages ?***  
 
@@ -96,4 +96,4 @@ I invite you to read the [terms of use](https://www.pathofexile.com/developer/do
 
 - **Why is the software free ?**  
 
-Xiletrade is a **standalone software** and is not intended to be used for profit by integrating advertisements as is customary. However, it is possible to make [donations]({{ site.github.paypal_url }}) at your discretion. Contribution is appreciated if you like the project.
+Xiletrade is a **standalone software** and is not intended to be used for profit by integrating advertisements as is customary. However, it is possible to make [donations]({{ site.github.paypal_url }}) at your discretion. Contribution are appreciated if you like the project and thank you for that 😊.
