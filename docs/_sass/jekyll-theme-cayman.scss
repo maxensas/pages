@@ -131,7 +131,7 @@ a {
 .btn2 {
     display: inline-block;
     margin-bottom: 0.2rem;
-    color: $body-link-color;
+    color: rgba(255, 255, 255, 0.7);
     background-color: rgba(255, 255, 255, 0.08);
     border-color: rgba(255, 255, 255, 0.2);
     border-style: solid;
@@ -140,7 +140,7 @@ a {
     transition: color 0.2s, background-color 0.2s, border-color 0.2s;
 
     &:hover {
-        color: $section-headings-color;
+        color: rgba(255, 255, 255, 1);
         text-decoration: none;
         background-color: rgba(255, 255, 255, 0.2);
         border-color: rgba(255, 255, 255, 0.3);
@@ -331,7 +331,7 @@ a {
     }
 
     img:hover {
-        transform: scale(1.1);
+        transform: scale(1.05);
     }
 
     .shot {
