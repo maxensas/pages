@@ -16,7 +16,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 * * *
 
-# {% include swiss.svg %} Main features :
+# {% include setup.svg %} Main features :
 
 - Fast **Price checker** for all items using defined shortcut ***CTRL+D*** *by default*.
 - Open **Settings** quickly with ***CTRL+R*** to modify price check behaviours.
