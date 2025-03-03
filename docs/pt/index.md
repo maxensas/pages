@@ -21,7 +21,7 @@ strings:
 *Jogue mais suavemente utilizando atalhos úteis.*  
 *Receba outras vendas semelhantes ao seu pedido.*  
 
-## {% include youtube.svg %} : [Preços](https://youtu.be/4mP3uOsr8oc) - [Intercâmbio](https://youtu.be/6yuLZXTho-A) - [Configurações](https://youtu.be/libdIjrNM-8)<br> 
+## {% include youtube.svg %} : [Preços](https://youtu.be/4mP3uOsr8oc) - [Intercâmbio](https://youtu.be/6yuLZXTho-A) - [Config](https://youtu.be/libdIjrNM-8)<br> 
 Executa de forma eficiente com poucos recursos de CPU.  
 Utiliza máx 250 MB de RAM sem picos de alocação de memória. 
 ***SEM DADOS*** escrito no fundo.  
