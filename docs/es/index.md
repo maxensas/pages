@@ -20,7 +20,7 @@ strings:
 *Configura comportamientos sobre la marcha.*  
 *¡Juega con mayor fluidez, opera más rápido!*  
 
-## {% include youtube.svg %} : [Precios](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Configuración](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} &nbsp; [Precios](https://youtu.be/4mP3uOsr8oc) &nbsp; [Bulk](https://youtu.be/6yuLZXTho-A) &nbsp; [Configuración](https://youtu.be/libdIjrNM-8)<br>
 
 Se ejecuta de manera eficiente con pocos recursos de CPU.  
 Usa máx ***250 MB de RAM*** sin picos de asignación de memoria.  

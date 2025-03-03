@@ -20,7 +20,7 @@ strings:
 *即時設定行為。*  
 *遊戲更流暢，優惠更快速！*  
 
-## {% include youtube.svg %} ： [定價](https://youtu.be/4mP3uOsr8oc) - [大量](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} &nbsp; [定價](https://youtu.be/4mP3uOsr8oc) &nbsp; [大量](https://youtu.be/6yuLZXTho-A) &nbsp; [設定](https://youtu.be/libdIjrNM-8)<br>
 
 僅需很少的 CPU 資源即可高效運作。  
 最大使用 ***250 MB RAM***，無記憶體分配峰值。  

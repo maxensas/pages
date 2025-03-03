@@ -20,7 +20,7 @@ strings:
 *Настройте поведение на лету.*  
 *Играйте плавнее, торгуйте быстрее!*  
 
-## {% include youtube.svg %} : [Оценивать](https://youtu.be/4mP3uOsr8oc) - [Массовые](https://youtu.be/6yuLZXTho-A) - [Настро](https://youtu.be/libdIjrNM-8)
+## {% include youtube.svg %} &nbsp; [Оценивать](https://youtu.be/4mP3uOsr8oc) &nbsp; [Массовые](https://youtu.be/6yuLZXTho-A) &nbsp; [Настро](https://youtu.be/libdIjrNM-8)
 
 Работает эффективно с небольшими ресурсами ЦП.  
 Использует макс ***250 МБ ОЗУ*** без скачков выделения памяти. 
