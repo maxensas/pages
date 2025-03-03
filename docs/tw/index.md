@@ -20,7 +20,7 @@ strings:
 *使用實用的快捷方式可以使遊戲更流暢。*  
 *立即獲得與您的請求類似的其他銷售。*  
 
-## {% include youtube.svg %} 樣品： [定價](https://youtu.be/4mP3uOsr8oc) - [大量](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} ： [定價](https://youtu.be/4mP3uOsr8oc) - [大量](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
 
 僅需很少的 CPU 資源即可高效運作。  
 最大使用 ***250 MB RAM***，無記憶體分配峰值。  

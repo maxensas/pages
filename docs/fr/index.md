@@ -20,7 +20,7 @@ strings:
 *Jouez plus facilement en utilisant des raccourcis utiles.*  
 *Obtenez d'autres ventes similaires à votre demande.*  
 
-## {% include youtube.svg %} Échantillons : [Vérification](https://youtu.be/4mP3uOsr8oc) - [Échanges](https://youtu.be/6yuLZXTho-A) - [Paramètres](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} : [Vérification](https://youtu.be/4mP3uOsr8oc) - [Échanges](https://youtu.be/6yuLZXTho-A) - [Paramètres](https://youtu.be/libdIjrNM-8)<br>
 
 Fonctionne efficacement avec peu de ressources CPU.  
 Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.  

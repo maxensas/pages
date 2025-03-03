@@ -20,7 +20,7 @@ strings:
 *Spielen Sie flüssiger mit Tastenkombinationen.* 
 *Erhalten Sie sofort andere Verkäufe, die Ihrer Anfrage ähneln.*  
 
-## {% include youtube.svg %} Proben : [Preise](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Einstellungen](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} : [Preise](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Einstellungen](https://youtu.be/libdIjrNM-8)<br>
 
 Läuft effizient mit wenigen CPU-Ressourcen.  
 Verwen max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.  

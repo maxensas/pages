@@ -20,7 +20,7 @@ strings:
 *Играйте более плавно с помощью сочетаний клавиш.*  
 *Получайте другие продажи, похожие на ваш запрос.*  
 
-## {% include youtube.svg %} Образцы : [Оценивать](https://youtu.be/4mP3uOsr8oc) - [Массовые](https://youtu.be/6yuLZXTho-A) - [Настройки](https://youtu.be/libdIjrNM-8)
+## {% include youtube.svg %} : [Оценивать](https://youtu.be/4mP3uOsr8oc) - [Массовые](https://youtu.be/6yuLZXTho-A) - [Настройки](https://youtu.be/libdIjrNM-8)
 
 Работает эффективно с небольшими ресурсами ЦП.  
 Использует макс ***250 МБ ОЗУ*** без скачков выделения памяти. 

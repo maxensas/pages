@@ -20,7 +20,7 @@ strings:
 *Juega de forma más fluida usando atajos útiles.*  
 *Obtén al instante otras ventas similares a tu solicitud.*  
 
-## {% include youtube.svg %} Muestras : [Precios](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Configuración](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} : [Precios](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Configuración](https://youtu.be/libdIjrNM-8)<br>
 
 Se ejecuta de manera eficiente con pocos recursos de CPU.  
 Usa máx ***250 MB de RAM*** sin picos de asignación de memoria.  

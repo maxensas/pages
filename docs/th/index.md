@@ -20,7 +20,7 @@ strings:
 *เล่นได้ราบรื่นขึ้นโดยใช้ทางลัดที่มีประโยชน์*  
 *รับการขายอื่นๆ ที่คล้ายกับคำขอของคุณทันที*  
 
-### {% include youtube.svg %} ตัวอย่าง : [การกำหนดราคา](https://youtu.be/4mP3uOsr8oc) - [จำนวนมาก](https://youtu.be/6yuLZXTho-A) - [การตั้งค่า](https://youtu.be/libdIjrNM-8)<br>
+### {% include youtube.svg %} : [การกำหนดราคา](https://youtu.be/4mP3uOsr8oc) - [จำนวนมาก](https://youtu.be/6yuLZXTho-A) - [การตั้งค่า](https://youtu.be/libdIjrNM-8)<br>
 
 ทำงานอย่างมีประสิทธิภาพด้วยทรัพยากร CPU เพียงเล็กน้อย  
 ใช้ RAM สูงสุด ***250 MB*** โดยไม่มีการจัดสรรหน่วยความจำเพิ่มขึ้น  

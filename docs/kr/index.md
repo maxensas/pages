@@ -20,7 +20,7 @@ strings:
 *유용한 단축키를 사용하여 더 매끄럽게 플레이하세요.*  
 *요청과 유사한 다른 판매를 즉시 받으세요.*  
 
-## {% include youtube.svg %} 샘플 : [가격](https://youtu.be/4mP3uOsr8oc) - [대량](https://youtu.be/6yuLZXTho-A) - [설정](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} : [가격](https://youtu.be/4mP3uOsr8oc) - [대량](https://youtu.be/6yuLZXTho-A) - [설정](https://youtu.be/libdIjrNM-8)<br>
 
 CPU 리소스가 거의 없이 효율적으로 실행됩니다.  
 메모리 할당 스파이크 없이 최대 ***250MB의 RAM***을 사용합니다.  

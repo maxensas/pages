@@ -20,7 +20,7 @@ strings:
 *ショートカットを使用すると、よりスムーズにプレイできます。*  
 *リクエストに類似した他のセールを即座に取得します。*  
 
-## {% include youtube.svg %} サンプル: [価格設定](https://youtu.be/4mP3uOsr8oc) - [一括](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} : [価格設定](https://youtu.be/4mP3uOsr8oc) - [一括](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
 
 CPU リソースをほとんど使用せずに効率的に実行します。  
 メモリ割り当ての急増なしで最大 ***250 MB の RAM*** を使用します。
