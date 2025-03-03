@@ -93,3 +93,7 @@ For abvious security reasons, it is strongly recommended to download Xiletrade f
 Note that the game publisher will never guarantee a third-party tool.
 It is up to the project maintainer to ensure that the proposed tool complies with the rules.  
 I invite you to read the [terms of use](https://www.pathofexile.com/developer/docs#policy) in order to cross-reference the information. 
+
+- **Why is the software free ?**  
+
+Xiletrade is a **standalone software** and is not intended to be used for profit by integrating advertisements as is customary. However, it is possible to make [donations]({{ site.github.paypal_url }}) at your discretion. Contribution is appreciated if you like the project.
