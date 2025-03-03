@@ -8,7 +8,7 @@ layout: default
 *Play smoother by using usefull shortcuts.*  
 *Instantly get other sales similar to your request.*
 
-### On youtube : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+### {% include youtube.svg %} : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
 Runs efficiently with few CPU resources.  
 Uses max ***250 MB of RAM*** with no memory allocation spikes.  
@@ -35,7 +35,7 @@ such as fast travel to **hideouts** or **trading** actions.
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">  
 <br>
 
-## Installation and Setup :
+## {% include install.svg %} Installation and Setup :
 
 1. [**Download**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) the latest version and **extract** **`.7zip`** archive in desired directory.  
 Xiletrade is a **portable application** and does not install anything additional upon launch.
@@ -47,7 +47,7 @@ Xiletrade is a **portable application** and does not install anything additional
 <br>
 
 * * *
-> # How it works :
+> # {% include checklist.svg %} How it works :
 > 
 > Run your game in **windowed** or **borderless full screen** in order to work correctly.  
 > Make sure that Xiletrade **language** and **league** match corresponding game settings.  
@@ -58,7 +58,7 @@ Xiletrade is a **portable application** and does not install anything additional
 >    4. Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### Customizable behaviours :
+### {% include settings.svg %} Customizable behaviours :
 
 * **Drag main window** wherever you want on your screen.
 * Search by **current** item values or by **minimum value** in tier range.
