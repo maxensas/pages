@@ -28,7 +28,7 @@ Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.
 
 * * *
 
-# {% include setup.svg %} Principales fonctionnalitées
+# {% include pokeball.svg %} Principales fonctionnalitées
 
 - **Vérificateur de prix** rapide pour tous les articles à l'aide du raccourci défini ***CTRL+D*** *par défaut*.
 - Ouvrez les **Paramètres** avec ***CTRL+R*** pour modifier les comportements de vérification des prix.
@@ -59,7 +59,7 @@ Xiletrade est une **application portable** et n'installe rien de plus au lanceme
 <br>
 
 * * *
-> # Comment ça marche
+> # {% include mouse.svg %} Comment ça marche
 >
 > Exécutez votre jeu en mode **plein écran fenêtré** ou **sans bordure** pour qu'il fonctionne correctement.
 > Assurez-vous que la **langue** et la **ligue** de Xiletrade correspondent aux paramètres de jeu correspondants.
@@ -70,7 +70,7 @@ Xiletrade est une **application portable** et n'installe rien de plus au lanceme
 > 4. Les prix affichés sont basés sur les **sites Web d'échange officiels** [PoE 1](https://www.pathofexile.com/trade/search/) et [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### {% include tools.svg %} Comportements personnalisables :
+### {% include chip.svg %} Comportements personnalisables :
 
 * **Faites glisser la fenêtre principale** où vous le souhaitez sur votre écran.
 * Recherchez par **valeurs actuelles** des objets ou par **valeur minimale** dans la plage de niveaux.
@@ -85,3 +85,26 @@ Xiletrade est une **application portable** et n'installe rien de plus au lanceme
 Conçu pour respecter les règles fixées par le site officiel du commerce afin d'éviter 
 les abus avec une récupération de données limitée et des demandes au fil du temps.
 ```
+* * *
+
+## {% include finger.svg %} FAQ :
+
+- ***L'application supporte-t-elle toutes les langues ?***
+
+**Oui**, elle a été conçue pour supporter toutes les langues du client Path of Exile.
+
+- ***Est-il sûr de télécharger l'application depuis un autre site web ?***
+
+Pour des raisons évidentes de sécurité, il est fortement recommandé de télécharger Xiletrade depuis le dépôt principal ou le site web github.io associé.
+
+- ***Je sais que l'utilisation d'une application tierce peut entraîner un bannissement d'un jeu.***
+***Est-ce le cas pour Path of Exile avec Xiletrade ?***
+
+**Non**, Xiletrade est sorti pour la première fois en 2020 et tant que vous utilisez la version publiée sur ce site, vous ne risquerez jamais d'être banni tant que la politique de GGG autorise l'utilisation d'outils comme celui-ci.
+Notez que l'éditeur du jeu ne garantira jamais un outil tiers.
+Il appartient au mainteneur du projet de s'assurer que l'outil proposé est conforme aux règles.
+Je vous invite à lire les [conditions d'utilisation](https://www.pathofexile.com/developer/docs#policy) afin de croiser les informations.
+
+- **Pourquoi le logiciel est-il gratuit ?**
+
+Xiletrade est un **logiciel autonome** et n'a pas vocation à être utilisé à des fins lucratives en intégrant des publicités comme il est d'usage. Il est cependant possible de faire des [dons]({{ site.github.paypal_url }}) à votre discrétion. Les contributions sont appréciées si vous aimez le projet et merci pour cela 😊.

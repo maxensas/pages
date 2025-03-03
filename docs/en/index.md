@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include screenshot.md %}
-## One-click price check
+## One-action price check
 
 *Find instantly the best price range.*  
 *Setup behaviors on the fly.*  

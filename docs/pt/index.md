@@ -28,7 +28,7 @@ Utiliza máx 250 MB de RAM sem picos de alocação de memória.
 
 * * * 
 
-# {% include setup.svg %} Características principais:
+# {% include pobeball.svg %} Características principais:
 
 - Verificador de preços rápido para todos os artigos utilizando o atalho definido ***CTRL+D*** *defeito*.
 - Abra **Definições** com ***CTRL+R*** para modificar os comportamentos de verificação de preços.
@@ -59,7 +59,7 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 
 * * * 
 
-> # Como funciona:
+> # {% include mouse.svg %} Como funciona:
 >
 > Execute o seu jogo em **janela** ou **ecrã completo sem bordas** para funcionar correctamente.
 > Certifique-se de que o **idioma** e a **liga** do Xiletrade correspondem às definições do jogo.
@@ -71,7 +71,7 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 
 <br>
 
-### {% include tools.svg %} Comportamentos personalizáveis:
+### {% include chip.svg %} Comportamentos personalizáveis:
 
 * **Arraste a janela principal** para onde desejar no ecrã.
 * Pesquise pelos valores dos itens **atuais** ou pelo **valor mínimo** no intervalo de níveis.
@@ -86,3 +86,26 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 Concebido para cumprir as regras definidas pelo site oficial do comércio para evitar abusos 
 com recuperação limitada de dados e pedidos ao longo do tempo.
 ```
+* * *
+
+## {% include finger.svg %} FAQ:
+
+- ***A aplicação suporta todos os idiomas?***
+
+**Sim**, foi concebida para suportar todos os idiomas do cliente Path of Exile.
+
+- ***É seguro descarregar a aplicação de outro site?*** 
+
+Por razões óbvias de segurança, é altamente recomendável descarregar o Xiletrade do repositório principal ou do site github.io associado.
+
+- ***Eu sei que a utilização de uma aplicação de terceiros pode resultar no banimento de um jogo.*** 
+***Este é o caso do Path of Exile com o Xiletrade?*** 
+
+**Não**, o Xiletrade foi lançado pela primeira vez em 2020 e, desde que utilize a versão publicada neste site, nunca correrá o risco de ser banido, desde que a política do GGG permita a utilização de ferramentas como esta.
+Note que o editor do jogo nunca garantirá uma ferramenta de terceiros.
+Cabe ao mantenedor do projeto garantir que a ferramenta proposta está em conformidade com as regras.
+Convido-o a ler os [termos de utilização](https://www.pathofexile.com/developer/docs#policy) para cruzar a informação.
+
+- **Porque é que o software é gratuito?**
+ 
+O Xiletrade é um **software autónomo** e não se destina a ser utilizado para fins lucrativos integrando anúncios como é habitual. No entanto, é possível fazer [donativos]({{ site.github.paypal_url }}) a seu critério. Contribuições serão apreciadas se gostar do projeto e obrigado por isso 😊.
