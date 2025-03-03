@@ -28,7 +28,7 @@ CPU リソースをほとんど使用せずに効率的に実行します。
 
 * * *
 
-# {% include pokeball.svg %} 主な機能:
+# {% include pokeball.svg %} 主な機能
 
 - 定義されたショートカット ***CTRL+D*** を使用して、すべてのアイテムの高速 **価格チェッカー** を *デフォルトで* 実行します。
 - CTRL+R で **設定** をすばやく開き、価格チェックの動作を変更します。
@@ -46,7 +46,7 @@ CPU リソースをほとんど使用せずに効率的に実行します。
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">
 <br>
 
-## {% include install.svg %} インストールとセットアップ:
+## {% include install.svg %} インストールとセットアップ
 
 1. 最新バージョンを[**ダウンロード**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}})し、**`.7zip`** アーカイブを目的のディレクトリに**解凍**します。
 Xiletrade は**ポータブル アプリケーション**であり、起動時に追加のものをインストールしません。
@@ -58,7 +58,7 @@ Xiletrade は**ポータブル アプリケーション**であり、起動時�
 <br>
 
 * * *
-> # {% include mouse.svg %} 仕組み:
+> # {% include mouse.svg %} 仕組み
 >
 > 正しく動作させるには、**ウィンドウ**または**ボーダーレス フル スクリーン**でゲームを実行します。
 > Xiletrade の**言語**と**リーグ**が対応するゲーム設定と一致していることを確認します。
@@ -69,7 +69,7 @@ Xiletrade は**ポータブル アプリケーション**であり、起動時�
 > 4. 表示される価格は**公式取引ウェブサイト** [PoE 1](https://www.pathofexile.com/trade/search/) および [PoE 2](https://www.pathofexile.com/trade2/search/poe2/) に基づいています。
 <br>
 
-### {% include chip.svg %} カスタマイズ可能な動作:
+### {% include chip.svg %} カスタマイズ可能な動作
 
 * **メインウィンドウ**を画面上の任意の場所にドラッグします。
 * **現在の**アイテム値またはティア範囲内の**最小値**で検索します。
@@ -86,7 +86,7 @@ Xiletrade は**ポータブル アプリケーション**であり、起動時�
 ```
 * * *
 
-## {% include finger.svg %} FAQ:
+## {% include finger.svg %} FAQ
 
 - ***アプリケーションはすべての言語をサポートしていますか?***
 

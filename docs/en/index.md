@@ -17,7 +17,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 * * *
 
-# {% include pokeball.svg %} Main features :
+# {% include pokeball.svg %} Main features
 
 - Fast **Price checker** for all items using defined shortcut ***CTRL+D*** *by default*.
 - Open **Settings** quickly with ***CTRL+R*** to modify price check behaviours.
@@ -36,7 +36,7 @@ such as fast travel to **hideouts** or **trading** actions.
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">  
 <br>
 
-## {% include install.svg %} Installation and Setup :
+## {% include install.svg %} Installation and Setup
 
 1. [**Download**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) the latest version and **extract** **`.7zip`** archive in desired directory.  
 Xiletrade is a **portable application** and does not install anything additional upon launch.
@@ -48,7 +48,7 @@ Xiletrade is a **portable application** and does not install anything additional
 <br>
 
 * * *
-> # {% include mouse.svg %} How it works :
+> # {% include mouse.svg %} How it works
 > 
 > Run your game in **windowed** or **borderless full screen** in order to work correctly.  
 > Make sure that Xiletrade **language** and **league** match corresponding game settings.  
@@ -59,7 +59,7 @@ Xiletrade is a **portable application** and does not install anything additional
 >    4. Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### {% include chip.svg %} Customizable behaviours :
+### {% include chip.svg %} Customizable behaviours
 
 * **Drag main window** wherever you want on your screen.
 * Search by **current** item values or by **minimum value** in tier range.
@@ -76,7 +76,7 @@ in order to avoid abuses with limited data recovery and requests over time.
 ```
 * * *
 
-## {% include finger.svg %} FAQ :
+## {% include finger.svg %} FAQ
 
 - ***Does the application support all languages ?***  
 

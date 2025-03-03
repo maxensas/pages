@@ -28,7 +28,7 @@ strings:
 
 * * *
 
-# {% include pokeball.svg %} 主要功能：
+# {% include pokeball.svg %} 主要功能
 
 - 使用定義的快速鍵 ***CTRL+D*** *預設* 對所有商品進行快速**價格檢查**。
 - 使用 ***CTRL+R*** 快速開啟 **設定** 來修改價格檢查行為。
@@ -46,7 +46,7 @@ strings:
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">  
 <br>
 
-## {% include install.svg %} 安裝與設定： 
+## {% include install.svg %} 安裝與設定
 
 1. [**下載**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}})最新版本並**提取** **`.7zip`** 檔案至所需目錄。
 Xiletrade 是一款**便攜式應用程式**，啟動時不需要安裝任何其他東西。
@@ -58,7 +58,7 @@ Xiletrade 是一款**便攜式應用程式**，啟動時不需要安裝任何其
 <br>
 * * *
 
-> # {% include mouse.svg %} 工作原理： 
+> # {% include mouse.svg %} 工作原理
 > 
 > 請在**視窗**或**無邊框全螢幕**模式下執行遊戲，以確保正常運作。
 > 確保 Xiletrade **語言**和**聯盟**與相應的遊戲設定相符。
@@ -69,7 +69,7 @@ Xiletrade 是一款**便攜式應用程式**，啟動時不需要安裝任何其
 > 4. 顯示的價格是根據**官方貿易網站** [PoE 1](https://www.pathofexile.com/trade/search/) 和 [PoE 2](https://www.pathofexile.com/trade2/search/poe2/)。
 <br>
 
-### {% include chip.svg %} 可自訂的行為： 
+### {% include chip.svg %} 可自訂的行為
 
 * **將主視窗**拖曳到螢幕上的任意位置。
 * 按**目前**項目值或層級範圍內的**最小值**進行搜尋。
@@ -86,7 +86,7 @@ Xiletrade 是一款**便攜式應用程式**，啟動時不需要安裝任何其
 ```
 * * *
 
-## {% include finger.svg %} 常見問題： 
+## {% include finger.svg %} 常見問題 
 
 - ***該應用程式是否支援所有語言？***
 

@@ -28,7 +28,7 @@ Utiliza máx 250 MB de RAM sem picos de alocação de memória.
 
 * * * 
 
-# {% include pokeball.svg %} Características principais:
+# {% include pokeball.svg %} Características principais
 
 - Verificador de preços rápido para todos os artigos utilizando o atalho definido ***CTRL+D*** *defeito*.
 - Abra **Definições** com ***CTRL+R*** para modificar os comportamentos de verificação de preços.
@@ -46,7 +46,7 @@ Utiliza máx 250 MB de RAM sem picos de alocação de memória.
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace"> 
 <br>
 
-## {% include install.svg %} Instalação e configuração:
+## {% include install.svg %} Instalação e configuração
 
 1. [**Descarregue**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) a versão mais recente e **extraia** o ficheiro **`.7zip`** para o directório pretendido.
 Xiletrade é uma **aplicação portátil** e não instala nada adicional quando é iniciado.
@@ -59,7 +59,7 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 
 * * * 
 
-> # {% include mouse.svg %} Como funciona:
+> # {% include mouse.svg %} Como funciona
 >
 > Execute o seu jogo em **janela** ou **ecrã completo sem bordas** para funcionar correctamente.
 > Certifique-se de que o **idioma** e a **liga** do Xiletrade correspondem às definições do jogo.
@@ -71,7 +71,7 @@ Xiletrade é uma **aplicação portátil** e não instala nada adicional quando 
 
 <br>
 
-### {% include chip.svg %} Comportamentos personalizáveis:
+### {% include chip.svg %} Comportamentos personalizáveis
 
 * **Arraste a janela principal** para onde desejar no ecrã.
 * Pesquise pelos valores dos itens **atuais** ou pelo **valor mínimo** no intervalo de níveis.
@@ -88,7 +88,7 @@ com recuperação limitada de dados e pedidos ao longo do tempo.
 ```
 * * *
 
-## {% include finger.svg %} FAQ:
+## {% include finger.svg %} FAQ
 
 - ***A aplicação suporta todos os idiomas?***
 

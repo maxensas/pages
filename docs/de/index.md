@@ -28,7 +28,7 @@ Verwen max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.
 
 * * *
 
-# {% include pokeball.svg %} Hauptfunktionen:
+# {% include pokeball.svg %} Hauptfunktionen
 
 - Schneller **Preisprüfer** für alle Artikel mit der definierten Tastenkombination ***STRG+D*** *standardmäßig*.
 - Öffnen Sie die **Einstellungen** schnell mit ***STRG+R***, um das Preisprüfungsverhalten zu ändern.
@@ -46,7 +46,7 @@ Verwen max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">
 <br>
 
-## {% include install.svg %} Installation und Einrichtung:
+## {% include install.svg %} Installation und Einrichtung
 
 1. [**Laden Sie**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) die neueste Version herunter und **entpacken** Sie das **`.7zip`**-Archiv in das gewünschte Verzeichnis.
 Xiletrade ist eine **portable Anwendung** und installiert beim Start nichts zusätzlich.
@@ -58,7 +58,7 @@ Xiletrade ist eine **portable Anwendung** und installiert beim Start nichts zus�
 <br>
 
 * * *
-> # {% include mouse.svg %} So funktioniert es:
+> # {% include mouse.svg %} So funktioniert es
 >
 > Führen Sie Ihr Spiel im **Fenstermodus** oder **randlosen Vollbildmodus** aus, damit es richtig funktioniert.
 > Stellen Sie sicher, dass die **Sprache** und **Liga** von Xiletrade mit den entsprechenden Spieleinstellungen übereinstimmen.
@@ -69,7 +69,7 @@ Xiletrade ist eine **portable Anwendung** und installiert beim Start nichts zus�
 > 4. Die angezeigten Preise basieren auf den **offiziellen Handelswebsites** [PoE 1](https://www.pathofexile.com/trade/search/) / [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### {% include chip.svg %} Anpassbares Verhalten:
+### {% include chip.svg %} Anpassbares Verhalten
 
 * **Ziehen Sie das Hauptfenster** an die gewünschte Stelle auf Ihrem Bildschirm.
 * Suchen Sie nach **aktuellen** Artikelwerten oder nach **Mindestwert** im Stufenbereich.
@@ -86,7 +86,7 @@ um Missbrauch mit eingeschränkter Datenwiederherstellung und Anfragen im Laufe 
 ```
 * * *
 
-## {% include finger.svg %} FAQ:
+## {% include finger.svg %} FAQ
 
 - ***Unterstützt die Anwendung alle Sprachen?***
 

@@ -70,7 +70,7 @@ Xiletrade est une **application portable** et n'installe rien de plus au lanceme
 > 4. Les prix affichés sont basés sur les **sites Web d'échange officiels** [PoE 1](https://www.pathofexile.com/trade/search/) et [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### {% include chip.svg %} Comportements personnalisables :
+### {% include chip.svg %} Comportements personnalisables
 
 * **Faites glisser la fenêtre principale** où vous le souhaitez sur votre écran.
 * Recherchez par **valeurs actuelles** des objets ou par **valeur minimale** dans la plage de niveaux.
@@ -87,7 +87,7 @@ les abus avec une récupération de données limitée et des demandes au fil du 
 ```
 * * *
 
-## {% include finger.svg %} FAQ :
+## {% include finger.svg %} FAQ
 
 - ***L'application supporte-t-elle toutes les langues ?***
 
