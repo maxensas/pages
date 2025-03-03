@@ -28,7 +28,7 @@ Utiliza máx 250 MB de RAM sem picos de alocação de memória.
 
 * * * 
 
-# {% include pobeball.svg %} Características principais:
+# {% include pokeball.svg %} Características principais:
 
 - Verificador de preços rápido para todos os artigos utilizando o atalho definido ***CTRL+D*** *defeito*.
 - Abra **Definições** com ***CTRL+R*** para modificar os comportamentos de verificação de preços.
