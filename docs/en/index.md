@@ -2,7 +2,7 @@
 layout: default
 ---
 {% include screenshot.md %}
-## One action to price check your item
+## One-click price check
 
 *Setup behaviors as you wish.*  
 *Play smoother by using usefull shortcuts.*  

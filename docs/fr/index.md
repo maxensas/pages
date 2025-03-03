@@ -20,7 +20,7 @@ strings:
 *Jouez plus facilement en utilisant des raccourcis utiles.*  
 *Obtenez d'autres ventes similaires à votre demande.*  
 
-### Sur YouTube : [Vérification](https://youtu.be/4mP3uOsr8oc) - [Échanges](https://youtu.be/6yuLZXTho-A) - [Paramètres](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} Échantillons : [Vérification](https://youtu.be/4mP3uOsr8oc) - [Échanges](https://youtu.be/6yuLZXTho-A) - [Paramètres](https://youtu.be/libdIjrNM-8)<br>
 
 Fonctionne efficacement avec peu de ressources CPU.  
 Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.  
@@ -28,7 +28,7 @@ Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.
 
 * * *
 
-# Principales fonctionnalitées
+# {% include swiss.svg %} Principales fonctionnalitées
 
 - **Vérificateur de prix** rapide pour tous les articles à l'aide du raccourci défini ***CTRL+D*** *par défaut*.
 - Ouvrez les **Paramètres** avec ***CTRL+R*** pour modifier les comportements de vérification des prix.
@@ -47,7 +47,7 @@ tel que le déplacement rapide vers la **cachette** ou les actions **d'échange*
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">
 <br>
 
-## Installation et configuration
+## {% include install.svg %} Installation et configuration
 
 1. [**Téléchargez**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) la dernière version et **extrayez** l'archive **`.7zip`** dans le répertoire souhaité.
 Xiletrade est une **application portable** et n'installe rien de plus au lancement.
@@ -70,7 +70,7 @@ Xiletrade est une **application portable** et n'installe rien de plus au lanceme
 > 4. Les prix affichés sont basés sur les **sites Web d'échange officiels** [PoE 1](https://www.pathofexile.com/trade/search/) et [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### Comportements personnalisables :
+### {% include tools.svg %} Comportements personnalisables :
 
 * **Faites glisser la fenêtre principale** où vous le souhaitez sur votre écran.
 * Recherchez par **valeurs actuelles** des objets ou par **valeur minimale** dans la plage de niveaux.

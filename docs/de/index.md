@@ -20,7 +20,7 @@ strings:
 *Spielen Sie flüssiger mit Tastenkombinationen.* 
 *Erhalten Sie sofort andere Verkäufe, die Ihrer Anfrage ähneln.*  
 
-### Auf YouTube: [Preise](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Einstellungen](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} Proben : [Preise](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Einstellungen](https://youtu.be/libdIjrNM-8)<br>
 
 Läuft effizient mit wenigen CPU-Ressourcen.  
 Verwen max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.  
@@ -28,7 +28,7 @@ Verwen max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.
 
 * * *
 
-# Hauptfunktionen:
+# {% include swiss.svg %} Hauptfunktionen:
 
 - Schneller **Preisprüfer** für alle Artikel mit der definierten Tastenkombination ***STRG+D*** *standardmäßig*.
 - Öffnen Sie die **Einstellungen** schnell mit ***STRG+R***, um das Preisprüfungsverhalten zu ändern.
@@ -46,7 +46,7 @@ Verwen max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">
 <br>
 
-## Installation und Einrichtung:
+## {% include install.svg %} Installation und Einrichtung:
 
 1. [**Laden Sie**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) die neueste Version herunter und **entpacken** Sie das **`.7zip`**-Archiv in das gewünschte Verzeichnis.
 Xiletrade ist eine **portable Anwendung** und installiert beim Start nichts zusätzlich.
@@ -69,7 +69,7 @@ Xiletrade ist eine **portable Anwendung** und installiert beim Start nichts zus�
 > 4. Die angezeigten Preise basieren auf den **offiziellen Handelswebsites** [PoE 1](https://www.pathofexile.com/trade/search/) / [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### Anpassbares Verhalten:
+### {% include tools.svg %} Anpassbares Verhalten:
 
 * **Ziehen Sie das Hauptfenster** an die gewünschte Stelle auf Ihrem Bildschirm.
 * Suchen Sie nach **aktuellen** Artikelwerten oder nach **Mindestwert** im Stufenbereich.

@@ -20,7 +20,7 @@ strings:
 *유용한 단축키를 사용하여 더 매끄럽게 플레이하세요.*  
 *요청과 유사한 다른 판매를 즉시 받으세요.*  
 
-### YouTube에서: [가격](https://youtu.be/4mP3uOsr8oc) - [대량](https://youtu.be/6yuLZXTho-A) - [설정](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} 샘플 : [가격](https://youtu.be/4mP3uOsr8oc) - [대량](https://youtu.be/6yuLZXTho-A) - [설정](https://youtu.be/libdIjrNM-8)<br>
 
 CPU 리소스가 거의 없이 효율적으로 실행됩니다.  
 메모리 할당 스파이크 없이 최대 ***250MB의 RAM***을 사용합니다.  
@@ -28,7 +28,7 @@ CPU 리소스가 거의 없이 효율적으로 실행됩니다.
 
 * * *
 
-# 주요 기능:
+# {% include swiss.svg %} 주요 기능:
 
 - 정의된 단축키 ***CTRL+D*** *기본적으로* 모든 품목에 대한 빠른 **가격 확인기**.
 - **CTRL+R**로 **설정**을 빠르게 열어 가격 확인 동작을 수정합니다.
@@ -46,7 +46,7 @@ CPU 리소스가 거의 없이 효율적으로 실행됩니다.
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">
 <br>
 
-## 설치 및 설정:
+## {% include install.svg %} 설치 및 설정:
 
 1. 최신 버전을 [**다운로드**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}})하고 원하는 디렉토리에 **`.7zip`** 아카이브를 **추출**합니다.
 Xiletrade는 **휴대용 애플리케이션**이며 실행 시 추가로 아무것도 설치하지 않습니다.
@@ -69,7 +69,7 @@ Xiletrade는 **휴대용 애플리케이션**이며 실행 시 추가로 아무�
 > 4. 표시된 가격은 **공식 거래 웹사이트** [PoE 1](https://www.pathofexile.com/trade/search/) 및 [PoE 2](https://www.pathofexile.com/trade2/search/poe2/)를 기반으로 합니다.
 <br>
 
-### 사용자 지정 가능한 동작:
+### {% include tools.svg %} 사용자 지정 가능한 동작:
 
 * **메인 창**을 화면에서 원하는 곳으로 드래그합니다.
 * **현재** 아이템 값 또는 티어 범위의 **최소값**으로 검색합니다.

@@ -20,7 +20,7 @@ strings:
 *使用實用的快捷方式可以使遊戲更流暢。*  
 *立即獲得與您的請求類似的其他銷售。*  
 
-### 在 YouTube 上：[定價](https://youtu.be/4mP3uOsr8oc) - [大量](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} 樣品： [定價](https://youtu.be/4mP3uOsr8oc) - [大量](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
 
 僅需很少的 CPU 資源即可高效運作。  
 最大使用 ***250 MB RAM***，無記憶體分配峰值。  
@@ -28,7 +28,7 @@ strings:
 
 * * *
 
-# 主要功能：
+# {% include swiss.svg %} 主要功能：
 
 - 使用定義的快速鍵 ***CTRL+D*** *預設* 對所有商品進行快速**價格檢查**。
 - 使用 ***CTRL+R*** 快速開啟 **設定** 來修改價格檢查行為。
@@ -46,7 +46,7 @@ strings:
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">  
 <br>
 
-## 安裝與設定： 
+## {% include install.svg %} 安裝與設定： 
 
 1. [**下載**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}})最新版本並**提取** **`.7zip`** 檔案至所需目錄。
 Xiletrade 是一款**便攜式應用程式**，啟動時不需要安裝任何其他東西。
@@ -69,7 +69,7 @@ Xiletrade 是一款**便攜式應用程式**，啟動時不需要安裝任何其
 > 4. 顯示的價格是根據**官方貿易網站** [PoE 1](https://www.pathofexile.com/trade/search/) 和 [PoE 2](https://www.pathofexile.com/trade2/search/poe2/)。
 <br>
 
-### 可自訂的行為： 
+### {% include tools.svg %} 可自訂的行為： 
 
 * **將主視窗**拖曳到螢幕上的任意位置。
 * 按**目前**項目值或層級範圍內的**最小值**進行搜尋。

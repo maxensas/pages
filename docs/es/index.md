@@ -20,7 +20,7 @@ strings:
 *Juega de forma más fluida usando atajos útiles.*  
 *Obtén al instante otras ventas similares a tu solicitud.*  
 
-### En YouTube: [Precios](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Configuración](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} Muestras : [Precios](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Configuración](https://youtu.be/libdIjrNM-8)<br>
 
 Se ejecuta de manera eficiente con pocos recursos de CPU.  
 Usa máx ***250 MB de RAM*** sin picos de asignación de memoria.  
@@ -28,7 +28,7 @@ Usa máx ***250 MB de RAM*** sin picos de asignación de memoria.
 
 * * *
 
-# Características principales:
+# {% include swiss.svg %} Características principales:
 
 - **Verificador de precios** rápido para todos los artículos usando el atajo definido ***CTRL+D*** *defecto*.
 - Abre **Configuración** rápidamente con ***CTRL+R*** para modificar los comportamientos de verificación de precios.
@@ -47,7 +47,7 @@ como viaje rápido a **escondites** o acciones de **intercambio**.
 <img align="center" src="https://github.com/user-attachments/assets/1a3229fe-9f61-4c18-b4de-98e2ee026ace">
 <br>
 
-## Instalación y configuración:
+## {% include install.svg %} Instalación y configuración:
 
 1. [**Descarga**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) la última versión y **extrae** el archivo **`.7zip`** en el directorio deseado.
 Xiletrade es una **aplicación portátil** y no instala nada adicional al iniciarse.
@@ -70,7 +70,7 @@ Xiletrade es una **aplicación portátil** y no instala nada adicional al inicia
 > 4. Los precios que se muestran se basan en los **sitios web oficiales** [PoE 1](https://www.pathofexile.com/trade/search/) y [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### Comportamientos personalizables:
+### {% include tools.svg %} Comportamientos personalizables:
 
 * **Arrastra la ventana principal** a donde quieras en tu pantalla.
 * Busca por valores de objetos **actuales** o por **valor mínimo** en el rango de niveles.
