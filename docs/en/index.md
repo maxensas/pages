@@ -48,7 +48,7 @@ Xiletrade is a **portable application** and does not install anything additional
 <br>
 
 * * *
-> # How it works :
+> # {% include pokeball.svg %} How it works :
 > 
 > Run your game in **windowed** or **borderless full screen** in order to work correctly.  
 > Make sure that Xiletrade **language** and **league** match corresponding game settings.  
@@ -59,7 +59,7 @@ Xiletrade is a **portable application** and does not install anything additional
 >    4. Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### {% include tools.svg %} Customizable behaviours :
+### {% include branch.svg %} Customizable behaviours :
 
 * **Drag main window** wherever you want on your screen.
 * Search by **current** item values or by **minimum value** in tier range.
