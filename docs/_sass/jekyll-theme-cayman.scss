@@ -87,7 +87,6 @@ a {
 
         .svg-donate {
             opacity: 1;
-            transition: opacity 0.2s;
         }
 
         @media (prefers-color-scheme: dark) {
@@ -125,6 +124,7 @@ a {
 
     .svg-donate {
         opacity: 0.6;
+        transition: opacity 0.2s;
     }
 }
 
@@ -200,6 +200,7 @@ a {
 .svg-logo {
     fill: rgba(255, 255, 255, 0.7);
     fill-rule: nonzero;
+    transition: fill 0.2s;
 }
 
 .span-align {
