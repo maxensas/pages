@@ -58,7 +58,7 @@ Xiletrade is a **portable application** and does not install anything additional
 >    4. Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### {% include tools.svg %} Customizable behaviours :
+### {% include adjust.svg %} Customizable behaviours :
 
 * **Drag main window** wherever you want on your screen.
 * Search by **current** item values or by **minimum value** in tier range.
