@@ -17,7 +17,7 @@ Uses max ***250 MB of RAM*** with no memory allocation spikes.
 
 * * *
 
-# {% include setup.svg %} Main features :
+# {% include pokeball.svg %} Main features :
 
 - Fast **Price checker** for all items using defined shortcut ***CTRL+D*** *by default*.
 - Open **Settings** quickly with ***CTRL+R*** to modify price check behaviours.
@@ -48,7 +48,7 @@ Xiletrade is a **portable application** and does not install anything additional
 <br>
 
 * * *
-> # {% include pokeball.svg %} How it works :
+> # {% include mouse.svg %} How it works :
 > 
 > Run your game in **windowed** or **borderless full screen** in order to work correctly.  
 > Make sure that Xiletrade **language** and **league** match corresponding game settings.  
