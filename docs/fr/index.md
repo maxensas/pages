@@ -28,7 +28,7 @@ Utilise max ***250 Mo de RAM*** sans pics d'allocation de mémoire.
 
 * * *
 
-# {% include swiss.svg %} Principales fonctionnalitées
+# {% include setup.svg %} Principales fonctionnalitées
 
 - **Vérificateur de prix** rapide pour tous les articles à l'aide du raccourci défini ***CTRL+D*** *par défaut*.
 - Ouvrez les **Paramètres** avec ***CTRL+R*** pour modifier les comportements de vérification des prix.

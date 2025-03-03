@@ -28,7 +28,7 @@ Usa máx ***250 MB de RAM*** sin picos de asignación de memoria.
 
 * * *
 
-# {% include swiss.svg %} Características principales:
+# {% include setup.svg %} Características principales:
 
 - **Verificador de precios** rápido para todos los artículos usando el atajo definido ***CTRL+D*** *defecto*.
 - Abre **Configuración** rápidamente con ***CTRL+R*** para modificar los comportamientos de verificación de precios.

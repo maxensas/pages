@@ -28,7 +28,7 @@ Verwen max. ***250 MB RAM*** ohne Speicherzuweisung Spitzen.
 
 * * *
 
-# {% include swiss.svg %} Hauptfunktionen:
+# {% include setup.svg %} Hauptfunktionen:
 
 - Schneller **Preisprüfer** für alle Artikel mit der definierten Tastenkombination ***STRG+D*** *standardmäßig*.
 - Öffnen Sie die **Einstellungen** schnell mit ***STRG+R***, um das Preisprüfungsverhalten zu ändern.
