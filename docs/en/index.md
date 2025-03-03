@@ -9,7 +9,7 @@ layout: default
 *Play smoother, trade quicker !*  
 
 
-## {% include youtube.svg %} : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+## {% include youtube.svg %} &nbsp; [Pricing](https://youtu.be/4mP3uOsr8oc) &nbsp; [Bulk](https://youtu.be/6yuLZXTho-A) &nbsp; [Settings](https://youtu.be/libdIjrNM-8)<br>
 
 Runs efficiently with few CPU resources.  
 Uses max ***250 MB of RAM*** with no memory allocation spikes.  
