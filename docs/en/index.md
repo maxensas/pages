@@ -70,7 +70,13 @@ Xiletrade is a **portable application** and does not install anything additional
 * **Highlight** for **expensive** and **dangeours mods** in maps (in config file).
 * **Auto paste** whisper trades in-game from external websites.  
 
-### FAQ :
+```
+Designed to comply rules set by the official trade website  
+in order to avoid abuses with limited data recovery and requests over time.  
+```
+* * *
+
+### {% include questionmark.svg %} FAQ :
 
 - ***Does the application support all languages ?***  
 
@@ -87,8 +93,3 @@ In general, this is the best practice to follow for each installation of new app
 No, Xiletrade was first released in 2020 and as long as you use the version published on this site, you will never risk getting banned as long as GGG policy allows the use of tools like this.  
 Note that GGG will never guarantee a third-party tool. It is up to the project maintainer to ensure that the proposed tool complies with the rules.  
 I invite you to read the publisher's terms of use in order to cross-reference the information. 
-
-```
-Designed to comply rules set by the official trade website  
-in order to avoid abuses with limited data recovery and requests over time.  
-```
