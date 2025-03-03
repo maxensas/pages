@@ -80,16 +80,16 @@ in order to avoid abuses with limited data recovery and requests over time.
 
 - ***Does the application support all languages ?***  
 
-Yes, It was designed to support all Path of Exile client languages.
+**Yes**, It was designed to support all Path of Exile client languages.
 
 - ***Is it safe to download the application from other website ?***   
 
-For security reasons, it is strongly recommended to download Xiletrade from the main repository or github.io website associated.   
-In general, this is the best practice to follow for each installation of new application on your system.
+For abvious security reasons, it is strongly recommended to download Xiletrade from the main repository or github.io website associated.   
 
 - ***I know that using a third party app can result in a ban from a game.***   
-***This is usually the case for shooters game, is this the case for Path of Exile with Xiletrade ?***  
+***Is this the case for Path of Exile with Xiletrade ?***  
 
-No, Xiletrade was first released in 2020 and as long as you use the version published on this site, you will never risk getting banned as long as GGG policy allows the use of tools like this.  
-Note that GGG will never guarantee a third-party tool. It is up to the project maintainer to ensure that the proposed tool complies with the rules.  
-I invite you to read the publisher's terms of use in order to cross-reference the information. 
+**No**, Xiletrade was first released in 2020 and as long as you use the version published on this site, you will never risk getting banned as long as GGG policy allows the use of tools like this.  
+Note that the game publisher will never guarantee a third-party tool.
+It is up to the project maintainer to ensure that the proposed tool complies with the rules.  
+I invite you to read the [terms of use](https://www.pathofexile.com/developer/docs#policy) in order to cross-reference the information. 
