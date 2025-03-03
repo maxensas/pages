@@ -159,7 +159,6 @@ a {
 
         svg {
             opacity: 1;
-            transition: opacity 0.2s;
         }
     }
 
@@ -190,6 +189,7 @@ a {
 
     svg {
         opacity: 0.8;
+        transition: opacity 0.2s;
     }
 }
 
