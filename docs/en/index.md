@@ -76,7 +76,7 @@ in order to avoid abuses with limited data recovery and requests over time.
 ```
 * * *
 
-### {% include questionmark.svg %} FAQ :
+## {% include questionmark.svg %} FAQ :
 
 - ***Does the application support all languages ?***  
 
