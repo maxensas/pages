@@ -37,7 +37,7 @@ such as fast travel to **hideouts** or **trading** actions.
 
 ## Installation and Setup :
 
-1. **Download** the latest version and **extract** **`.7zip`** archive in desired directory.  
+1. [**Download**]({{ site.github.download_directory_url }}{{ site.github.latest_version }}/{{ site.github.archive_file}}) the latest version and **extract** **`.7zip`** archive in desired directory.  
 Xiletrade is a **portable application** and does not install anything additional upon launch.
 2. **Right click** on system tray icon to configure or close the program.  
 3. Select desired **game version**, **language** and **league** under startup or settings window.
