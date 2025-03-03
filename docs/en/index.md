@@ -4,9 +4,10 @@ layout: default
 {% include screenshot.md %}
 ## One-click price check
 
-*Setup behaviors as you wish.*  
-*Play smoother by using usefull shortcuts.*  
-*Instantly get other sales similar to your request.*
+*Find instantly the best price range.*  
+*Setup behaviors on the fly.*  
+*Play smoother, trade quicker !*  
+
 
 ## {% include youtube.svg %} : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 

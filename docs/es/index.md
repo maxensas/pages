@@ -16,9 +16,9 @@ strings:
 {% include screenshot.md %}
 ## Una sola acción para verificar el precio
 
-*Configura los comportamientos como desees.*  
-*Juega de forma más fluida usando atajos útiles.*  
-*Obtén al instante otras ventas similares a tu solicitud.*  
+*Encuentra al instante el mejor rango de precios.*  
+*Configura comportamientos sobre la marcha.*  
+*¡Juega con mayor fluidez, opera más rápido!*  
 
 ## {% include youtube.svg %} : [Precios](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Configuración](https://youtu.be/libdIjrNM-8)<br>
 

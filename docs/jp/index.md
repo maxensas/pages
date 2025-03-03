@@ -16,9 +16,9 @@ strings:
 {% include screenshot.md %}
 ## 1回のアクションで商品の価格をチェック
 
-*希望どおりに動作を設定します。*  
-*ショートカットを使用すると、よりスムーズにプレイできます。*  
-*リクエストに類似した他のセールを即座に取得します。*  
+*最適な価格帯を即座に見つけます。*  
+*即座に動作を設定します。*  
+*よりスムーズにプレイし、より迅速に取引します！*  
 
 ## {% include youtube.svg %} : [価格設定](https://youtu.be/4mP3uOsr8oc) - [一括](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
 

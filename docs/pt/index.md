@@ -17,9 +17,9 @@ strings:
 
 ## Uma ação para verificar o preço do item
 
-*Configure os comportamentos como desejar.*  
-*Jogue mais suavemente utilizando atalhos úteis.*  
-*Receba outras vendas semelhantes ao seu pedido.*  
+*Encontre instantaneamente a melhor gama de preços.*  
+*Configure comportamentos rapidamente.*  
+*Jogue com mais suavidade, negoceie mais rapidamente!*  
 
 ## {% include youtube.svg %} : [Preços](https://youtu.be/4mP3uOsr8oc) - [Intercâmbio](https://youtu.be/6yuLZXTho-A) - [Config](https://youtu.be/libdIjrNM-8)<br> 
 Executa de forma eficiente com poucos recursos de CPU.  

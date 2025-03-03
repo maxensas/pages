@@ -16,9 +16,9 @@ strings:
 {% include screenshot.md %}
 ## Überprüfen Sie den Preis Ihres Artikels
 
-*Richten Sie das Verhalten nach Wunsch ein.*  
-*Spielen Sie flüssiger mit Tastenkombinationen.* 
-*Erhalten Sie sofort andere Verkäufe, die Ihrer Anfrage ähneln.*  
+*Finden Sie sofort die beste Preisspanne.*  
+*Richten Sie Verhaltensweisen im Handumdrehen ein.*  
+*Spielen Sie flüssiger, handeln Sie schneller!*  
 
 ## {% include youtube.svg %} : [Preise](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Einstellungen](https://youtu.be/libdIjrNM-8)<br>
 

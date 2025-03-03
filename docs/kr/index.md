@@ -16,9 +16,9 @@ strings:
 {% include screenshot.md %}
 ## 한 가지 작업으로 품목 가격 확인
 
-*원하는 대로 동작을 설정하세요.*  
-*유용한 단축키를 사용하여 더 매끄럽게 플레이하세요.*  
-*요청과 유사한 다른 판매를 즉시 받으세요.*  
+*최고의 가격대를 즉시 찾으세요.*  
+*즉각적으로 행동을 설정하세요.*  
+*더 부드럽게 플레이하고, 더 빠르게 거래하세요!*  
 
 ## {% include youtube.svg %} : [가격](https://youtu.be/4mP3uOsr8oc) - [대량](https://youtu.be/6yuLZXTho-A) - [설정](https://youtu.be/libdIjrNM-8)<br>
 

@@ -16,9 +16,9 @@ strings:
 {% include screenshot.md %}
 ## 只需一个动作即可检查您的商品价格
 
-*根据需要设置行为。*  
-*使用有用的快捷方式播放更流畅。*  
-*立即获得与您的请求类似的其他销售。*  
+*立即找到最佳价格范围。*  
+*即时设置行为。*  
+*游戏更流畅，交易更快！*  
 
 ## {% include youtube.svg %} ： [定价](https://youtu.be/4mP3uOsr8oc) - [批量](https://youtu.be/6yuLZXTho-A) - [设置](https://youtu.be/libdIjrNM-8)<br>
 

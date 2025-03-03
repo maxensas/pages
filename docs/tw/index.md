@@ -16,9 +16,9 @@ strings:
 {% include screenshot.md %}
 ## 一個動作可以檢查您的商品價格
 
-*依您的意願設定行為。*  
-*使用實用的快捷方式可以使遊戲更流暢。*  
-*立即獲得與您的請求類似的其他銷售。*  
+*立即找到最佳價格範圍。*  
+*即時設定行為。*  
+*遊戲更流暢，優惠更快速！*  
 
 ## {% include youtube.svg %} ： [定價](https://youtu.be/4mP3uOsr8oc) - [大量](https://youtu.be/6yuLZXTho-A) - [設定](https://youtu.be/libdIjrNM-8)<br>
 
