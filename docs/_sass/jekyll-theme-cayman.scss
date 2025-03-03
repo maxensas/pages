@@ -85,6 +85,11 @@ a {
             transition: fill 0.2s;
         }
 
+        .svg-donate {
+            opacity: 1;
+            transition: opacity 0.2s;
+        }
+
         @media (prefers-color-scheme: dark) {
             .svg-logo {
                 fill: rgba(255, 255, 255, 1);
@@ -116,6 +121,10 @@ a {
             margin-top: 1rem;
             margin-left: 0;
         }
+    }
+
+    .svg-donate {
+        opacity: 0.6;
     }
 }
 
@@ -199,6 +208,10 @@ a {
                 fill-rule: nonzero;
             }
         }
+
+        svg {
+            opacity: 1;
+        }
     }
 
     + .btn2 {
@@ -225,6 +238,10 @@ a {
             margin-left: 0;
         }
     }
+
+    svg {
+        opacity: 0.6;
+    }
 }
 
 .italic {
@@ -234,14 +251,6 @@ a {
 .svg-logo {
     fill: rgba(255, 255, 255, 0.7);
     fill-rule: nonzero;
-}
-
-.svg-donate {
-    opacity: 0.6;
-
-    &:hover {
-        opacity: 1;
-    }
 }
 
 .span-align {
