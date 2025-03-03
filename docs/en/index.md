@@ -8,7 +8,7 @@ layout: default
 *Play smoother by using usefull shortcuts.*  
 *Instantly get other sales similar to your request.*
 
-### {% include youtube.svg %} : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
+### On {% include youtube.svg %} : [Pricing](https://youtu.be/4mP3uOsr8oc) - [Bulk](https://youtu.be/6yuLZXTho-A) - [Settings](https://youtu.be/libdIjrNM-8)<br>
 
 Runs efficiently with few CPU resources.  
 Uses max ***250 MB of RAM*** with no memory allocation spikes.  
@@ -47,7 +47,7 @@ Xiletrade is a **portable application** and does not install anything additional
 <br>
 
 * * *
-> # {% include checklist.svg %} How it works :
+> # How it works :
 > 
 > Run your game in **windowed** or **borderless full screen** in order to work correctly.  
 > Make sure that Xiletrade **language** and **league** match corresponding game settings.  
@@ -58,7 +58,7 @@ Xiletrade is a **portable application** and does not install anything additional
 >    4. Prices displayed are based from the **official trade websites** [PoE 1](https://www.pathofexile.com/trade/search/) and [PoE 2](https://www.pathofexile.com/trade2/search/poe2/).
 <br>
 
-### {% include settings.svg %} Customizable behaviours :
+### {% include tools.svg %} Customizable behaviours :
 
 * **Drag main window** wherever you want on your screen.
 * Search by **current** item values or by **minimum value** in tier range.
