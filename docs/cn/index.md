@@ -92,7 +92,7 @@ Xiletrade 是一个**便携式应用程序**，启动时不会安装任何其他
 
 <p class="accordion"><b>该应用程序是否支持所有语言？</b></p>
 <div class="panel">
-<b>是的</b>，它旨在支持所有流放之路客户端语言。
+<b>是的</b>，它被设计为支持所有 Path of Exile 客户端语言。
 </div>
 
 <p class="accordion"><b>从其他网站下载该应用程序是否安全？</b></p>
