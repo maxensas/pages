@@ -39,6 +39,30 @@
             }
             document.location.href += setLang;
         }
+
+        document.addEventListener("DOMContentLoaded", function (event) {
+            var acc = document.getElementsByClassName("accordion");
+            var panel = document.getElementsByClassName('panel');
+
+            for (var i = 0; i < acc.length; i++) {
+                acc[i].onclick = function () {
+                    var setClasses = !this.classList.contains('active');
+                    setClass(acc, 'active', 'remove');
+                    setClass(panel, 'show', 'remove');
+
+                    if (setClasses) {
+                        this.classList.toggle("active");
+                        this.nextElementSibling.classList.toggle("show");
+                    }
+                }
+            }
+
+            function setClass(els, className, fnName) {
+                for (var i = 0; i < els.length; i++) {
+                    els[i].classList[fnName](className);
+                }
+            }
+        });
     </script>
     {% endunless %}
     {% include head-custom.html %}
@@ -98,13 +122,13 @@
                         </svg>
                         -->
                         <svg width="18px" height="18px" viewBox="0 0 16 16" class="svg-logo" xmlns="http://www.w3.org/2000/svg" fill="none">
-                            <g id="SVGRepo_bgCarrier" stroke-width="0"></g>
-                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"></g>
+                            <g id="SVGRepo_bgCarrier" stroke-width="0"/>
+                            <g id="SVGRepo_tracerCarrier" stroke-linecap="round" stroke-linejoin="round"/>
                             <g id="SVGRepo_iconCarrier">
-                                <path fill="#F35325" d="M1 1h6.5v6.5H1V1z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-f35325, #f35325);"></path>
-                                <path fill="#81BC06" d="M8.5 1H15v6.5H8.5V1z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-81bc06, #81bc06);"></path>
-                                <path fill="#05A6F0" d="M1 8.5h6.5V15H1V8.5z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-05a6f0, #05a6f0);"></path>
-                                <path fill="#FFBA08" d="M8.5 8.5H15V15H8.5V8.5z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-ffba08, #ffba08);"></path>
+                                <path fill="#F35325" d="M1 1h6.5v6.5H1V1z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-f35325, #f35325);"/>
+                                <path fill="#81BC06" d="M8.5 1H15v6.5H8.5V1z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-81bc06, #81bc06);"/>
+                                <path fill="#05A6F0" d="M1 8.5h6.5V15H1V8.5z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-05a6f0, #05a6f0);"/>
+                                <path fill="#FFBA08" d="M8.5 8.5H15V15H8.5V8.5z" data-darkreader-inline-fill="" style="--darkreader-inline-fill: var(--darkreader-background-ffba08, #ffba08);"/>
                             </g>
                         </svg>
                     </span>
