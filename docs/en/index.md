@@ -91,9 +91,9 @@ For obvious security reasons, it is strongly recommended to download Xiletrade f
 <p class="accordion"><b>I know that using a third party app can result in a ban from a game.<br>Is this the case for Path of Exile with Xiletrade ?</b></p>
 <div class="panel">
 <b>No</b>, Xiletrade was first released in 2020 and as long as you use the version published on this site, you will never risk getting banned as long as GGG policy allows the use of tools like this.  
-Note that the game publisher will never guarantee a third-party tool.
+<br>Note that the game publisher will never guarantee a third-party tool.
 It is up to the project maintainer to ensure that the proposed tool complies with the rules.  
-I invite you to read the <a target="_blank" rel="noopener noreferrer" href="https://www.pathofexile.com/developer/docs#policy">terms of use</a> in order to cross-reference the information.
+<br>I invite you to read the <a target="_blank" rel="noopener noreferrer" href="https://www.pathofexile.com/developer/docs#policy">terms of use</a> in order to cross-reference the information.
 </div>
 
 <p class="accordion"><b>Why is the software free ?</b></p>
