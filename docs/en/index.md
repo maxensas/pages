@@ -85,7 +85,7 @@ in order to avoid abuses with limited data recovery and requests over time.
 
 <p class="accordion"><b>Is it safe to download the application from other website ?</b></p>
 <div class="panel">
-For abvious security reasons, it is strongly recommended to download Xiletrade from the main repository or github.io website associated.
+For obvious security reasons, it is strongly recommended to download Xiletrade from the main repository or github.io website associated.
 </div>
 
 <p class="accordion"><b>I know that using a third party app can result in a ban from a game.<br>Is this the case for Path of Exile with Xiletrade ?</b></p>
