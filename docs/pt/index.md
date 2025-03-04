@@ -13,7 +13,7 @@ strings:
   latest: última versão
   support: Doar
 ---
-{% include screenshot.md %} 
+{% include screenshot.html %} 
 
 ## Uma ação para verificar o preço do item
 

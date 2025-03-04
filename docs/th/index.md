@@ -13,7 +13,7 @@ strings:
   latest: รุ่นล่าสุด
   support: เพื่อรองรับ
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## การกระทำอย่างหนึ่งในการตรวจสอบราคา
 
 *ค้นหาช่วงราคาที่ดีที่สุดทันที*  

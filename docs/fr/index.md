@@ -13,7 +13,7 @@ strings:
   latest: dernière release
   support: Contribuer
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## Vérifier le prix de votre article en un clic
 
 *Trouvez instantanément la meilleure gamme de prix.*  

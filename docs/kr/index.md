@@ -13,7 +13,7 @@ strings:
   latest: 최신 릴리스
   support: 기부
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## 한 가지 작업으로 품목 가격 확인
 
 *최고의 가격대를 즉시 찾으세요.*  

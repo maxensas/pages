@@ -13,7 +13,7 @@ strings:
   latest: 最新版本
   support: 捐贈
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## 一個動作可以檢查您的商品價格
 
 *立即找到最佳價格範圍。*  

@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## One-action price check
 
 *Find instantly the best price range.*  

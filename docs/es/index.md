@@ -13,7 +13,7 @@ strings:
   latest: última versión
   support: Donar
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## Una sola acción para verificar el precio
 
 *Encuentra al instante el mejor rango de precios.*  

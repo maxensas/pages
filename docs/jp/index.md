@@ -13,7 +13,7 @@ strings:
   latest: 最新リリースを使用
   support: 寄付する
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## 1回のアクションで商品の価格をチェック
 
 *最適な価格帯を即座に見つけます。*  

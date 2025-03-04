@@ -13,7 +13,7 @@ strings:
   latest: neueste Version
   support: Spenden
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## Überprüfen Sie den Preis Ihres Artikels
 
 *Finden Sie sofort die beste Preisspanne.*  

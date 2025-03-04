@@ -13,7 +13,7 @@ strings:
   latest: последнюю версию
   support: Пожертвовать
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## Один шаг, чтобы проверить цену
 
 *Мгновенно найдите лучший ценовой диапазон.*  

@@ -13,7 +13,7 @@ strings:
   latest: 最新版本
   support: 捐赠
 ---
-{% include screenshot.md %}
+{% include screenshot.html %}
 ## 只需一个动作即可检查您的商品价格
 
 *立即找到最佳价格范围。*  
