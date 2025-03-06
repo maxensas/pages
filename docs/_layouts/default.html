@@ -98,6 +98,7 @@
             <h1 class="project-name"><img src="https://github.com/user-attachments/assets/2e6a8d98-42f3-428d-aa48-e2e52f627008"> {{ page.title | default: site.title | default: site.github.repository_name }}</h1>
             <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
             {% if site.show_downloads %}
+            <img class="img-release" alt="{{ page.strings.latest | default: site.strings.latest }}" src="https://img.shields.io/github/v/release/maxensas/xiletrade?style=for-the-badge"><br />
             <a class="btn2" href="{% include download.html %}">
                 <span>
                     <span class="span-align">
@@ -126,10 +127,8 @@
                     </span>
                 </span>
             </a>
-            <br />
-            <!--<i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i>-->
+            <!--<br /><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i>-->
             <!--{{ site.github.latest_version }}-->
-            <img class="img-release" alt="{{ page.strings.latest | default: site.strings.latest }}" src="https://img.shields.io/github/v/release/maxensas/xiletrade?style=for-the-badge">
             {% endif %}
         </div>
     </header>
