@@ -215,6 +215,15 @@ a {
     }
 }
 
+.img-opacity {
+    opacity: 0.5;
+    transition: opacity 0.2s;
+
+    &:hover {
+        opacity: 1;
+    }
+}
+
 .page-header {
     color: $header-heading-color;
     text-align: center;
