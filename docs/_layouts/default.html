@@ -55,10 +55,6 @@
         });
 
         $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
-            if (data.tag_name) {
-                document.getElementById("latest-release").innerHTML += data.tag_name;
-                // data.assets[0].browser_download_url;
-            }
             document.getElementById("latest-release").innerHTML += data.tag_name;
         });
     </script>
