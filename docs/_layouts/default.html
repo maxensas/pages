@@ -128,9 +128,7 @@
                     </span>
                 </span>
             </a>
-            <br />
-            <i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i>
-            <div>{{ site.github.latest_version }}</div>
+            <div><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i> {{ site.github.latest_version }}</div>
             <!--<img class="img-release" alt="{{ page.strings.latest | default: site.strings.latest }}" src="https://img.shields.io/github/v/release/maxensas/xiletrade?style=for-the-badge">-->
             {% endif %}
         </div>
