@@ -147,9 +147,11 @@
     </main>
     <script>
         $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
+            document.getElementById("latest-release").innerHTML += data.tag_name;
+            /*
             window.onload = function () {
-                document.getElementById("latest-release").innerHTML += data.tag_name;
-            }
+                
+            }*/
             // data.assets[0].browser_download_url;
         });
     </script>
