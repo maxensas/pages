@@ -54,7 +54,7 @@
             }
         });
 
-        $.getJSON('{{ site.github.latest_url }}', function (data) {
+        $.getJSON('{{ site.github.latest_json_url }}', function (data) {
             function SetLatest() {
                 if (data.tag_name != null) {
                     document.getElementById("latest-release").innerHTML += data.tag_name;
