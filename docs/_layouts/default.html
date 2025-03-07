@@ -54,12 +54,22 @@
             }
         });
 
+        let tag = "";
         $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
-            window.onload = function () {
+            tag = data.tag_name;
+            /*
+            document.onload = function () {
                 document.getElementById("latest-release").innerHTML += data.tag_name;
             }
+            */
+            
             //document.getElementById("demo").innerHTML = data.tag_name + "<br>" + data.assets[0].browser_download_url;
         });
+        console.log("tag: " + tag);
+        let test = document.getElementById("latest-release");
+        test.onload = function () {
+            test.innerHTML = tag;
+        }
     </script>
     {% endunless %}
     {% include head-custom.html %}
