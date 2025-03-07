@@ -54,7 +54,7 @@
             }
         });
 
-        $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
+        $.getJSON('{{ site.github.latest_url }}', function (data) {
             function SetLatest() {
                 if (data.tag_name != null) {
                     document.getElementById("latest-release").innerHTML += data.tag_name;
@@ -70,8 +70,6 @@
                 }
             }
         });
-
-        console.log('test: ' + '{{ site.github.repository_url }}');
     </script>
     {% endunless %}
     {% include head-custom.html %}
