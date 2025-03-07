@@ -55,7 +55,7 @@
         });
 
         $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
-            document.getElementById("latest-release").innerHTML += data.tag_name;
+            document.getElementById("latest").innerHTML += data.tag_name;
         });
     </script>
     {% endunless %}
@@ -131,7 +131,7 @@
                     </span>
                 </span>
             </a>
-            <div class="latest-release"><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i></div>
+            <div class="latest"><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i></div>
             <!--<img class="img-release" alt="{{ page.strings.latest | default: site.strings.latest }}" src="https://img.shields.io/github/v/release/maxensas/xiletrade?style=for-the-badge">-->
             {% endif %}
         </div>
