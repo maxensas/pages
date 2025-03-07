@@ -54,22 +54,7 @@
             }
         });
 
-        let tag = "";
-        $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
-            tag = data.tag_name;
-            /*
-            document.onload = function () {
-                document.getElementById("latest-release").innerHTML += data.tag_name;
-            }
-            */
-            
-            //document.getElementById("demo").innerHTML = data.tag_name + "<br>" + data.assets[0].browser_download_url;
-        });
-        console.log("tag: " + tag);
-        let test = document.getElementById("latest-release");
-        test.onload = function () {
-            test.innerHTML = tag;
-        }
+        
     </script>
     {% endunless %}
     {% include head-custom.html %}
@@ -160,5 +145,14 @@
             <!--<span class="site-footer-credits">{{ page.strings.generated | default: site.strings.generated }} <a target="_blank" rel="noopener noreferrer" href="https://pages.github.com">GitHub Pages</a>.</span>-->
         </footer>
     </main>
+    <script>
+        $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
+            window.onload = function () {
+                document.getElementById("latest-release").innerHTML += data.tag_name;
+            }
+            // data.assets[0].browser_download_url;
+        });
+    </script>
+
 </body>
 </html>
