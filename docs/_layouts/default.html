@@ -54,10 +54,9 @@
             }
         });
 
-        $.getJSON('https://api.github.com/repos/maxensas/xiletrade/releases/latest', function (data) {
+        $.getJSON("{{ site.github.latest_url }}", function (data) {
             if (data.tag_name.length > 0) {
-                var html = '<i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i>';
-                document.getElementById("latest-release").innerHTML = html + data.tag_name;
+                document.getElementById("latest-release").innerHTML += data.tag_name;
                 //document.getElementById("demo").innerHTML = data.tag_name + "<br>" + data.assets[0].browser_download_url;
             }
         });
@@ -135,7 +134,7 @@
                     </span>
                 </span>
             </a>
-            <div class="latest-release"></div>
+            <div class="latest-release"><i class="italic">{{ page.strings.latest | default: site.strings.latest }} : </i> </div>
             <!--<img class="img-release" alt="{{ page.strings.latest | default: site.strings.latest }}" src="https://img.shields.io/github/v/release/maxensas/xiletrade?style=for-the-badge">-->
             {% endif %}
         </div>
