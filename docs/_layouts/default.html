@@ -15,23 +15,21 @@
         let langs = ["ko", "fr", "es", "de", "pt", "ru", "th", "ja", "zh", "jp", "kr"];
         let navLang = navigator.language.split('-')[0];
         let langFiltered = langs.filter(value => value == navLang);
-        if (document.location.href.endsWith("pages/")) {
-            if (langFiltered.length > 0) {
-                if (langFiltered == "ko") {
-                    langFiltered = "kr";
-                }
-                if (langFiltered == "ja") {
-                    langFiltered = "jp";
-                }
-                if (langFiltered == "zh") {
-                    if (navigator.language.endsWith("CN")) {
-                        langFiltered = "cn";
-                    } else {
-                        langFiltered = "tw";
-                    }
-                }
-                document.location.replace(document.location.href + langFiltered);
+        if (langFiltered.length > 0 && document.location.href.endsWith("pages/")) {
+            if (langFiltered == "ko") {
+                langFiltered = "kr";
             }
+            if (langFiltered == "ja") {
+                langFiltered = "jp";
+            }
+            if (langFiltered == "zh") {
+                if (navigator.language.endsWith("CN")) {
+                    langFiltered = "cn";
+                } else {
+                    langFiltered = "tw";
+                }
+            }
+            document.location.replace(document.location.href + langFiltered);
         }
     </script>
     {% endunless %}
