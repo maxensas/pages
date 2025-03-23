@@ -10,16 +10,12 @@
     <meta name="theme-color" content="#157878">
     <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
     <link rel="stylesheet" href="{{ '/assets/css/style.css?v=' | append: site.github.build_revision | relative_url }}">
-    {% unless page.light_mode %}
-    <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
-    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    {% unless page.lang %}
     <script>
-        DarkReader.enable();
-        let langs = ["en", "ko", "fr", "es", "de", "pt", "ru", "th", "ja", "zh", "jp", "kr"];
+        let langs = ["ko", "fr", "es", "de", "pt", "ru", "th", "ja", "zh", "jp", "kr"];
         let navLang = navigator.language.split('-')[0];
         let langFiltered = langs.filter(value => value == navLang);
-        let setLang = "";
-        if (document.location.href.endsWith("pages/")) { // TO replace with "Xiletrade/"
+        if (document.location.href.endsWith("pages/")) {
             if (langFiltered.length > 0) {
                 if (langFiltered == "ko") {
                     langFiltered = "kr";
@@ -34,12 +30,16 @@
                         langFiltered = "tw";
                     }
                 }
-                setLang = langFiltered;
-            } else {
-                setLang = "en";
+                document.location.replace(document.location.href + langFiltered);
             }
-            document.location.href += setLang;
         }
+    </script>
+    {% endunless %}
+    {% unless page.light_mode %}
+    <script src="https://cdn.jsdelivr.net/npm/darkreader@4.9.31/darkreader.min.js"></script>
+    <script src="https://code.jquery.com/jquery-3.7.1.js"></script>
+    <script>
+        DarkReader.enable();
 
         document.addEventListener("DOMContentLoaded", function (event) {
             /* Toggle between adding and removing the "active" and "show" classes when the user clicks on one of the "Section" buttons. The "active" class is used to add a background color to the current button when its belonging panel is open. The "show" class is used to open the specific accordion panel */
@@ -71,6 +71,8 @@
             }
         });
     </script>
+    {% endunless %}
+    {% include head-custom.html %}
     <link rel="alternate" hreflang="x-default" href="https://maxensas.github.io/pages/" />
     <link rel="alternate" hreflang="en" href="https://maxensas.github.io/pages/en/" />
     <link rel="alternate" hreflang="fr" href="https://maxensas.github.io/pages/fr/" />
@@ -83,8 +85,6 @@
     <link rel="alternate" hreflang="th" href="https://maxensas.github.io/pages/th/" />
     <link rel="alternate" hreflang="zh-Hant" href="https://maxensas.github.io/pages/tw/" />
     <link rel="alternate" hreflang="zh-Hans" href="https://maxensas.github.io/pages/cn/" />
-    {% endunless %}
-    {% include head-custom.html %}
 </head>
 <body>
     <header class="page-header" role="banner">
